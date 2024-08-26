@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Human%20Resources by Jobright.ai
+# Daily Intern Jobs in Human Resources by Jobright.ai
 
 
 
