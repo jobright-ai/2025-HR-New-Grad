@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** HR Manager and Compensation and Benefits.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Human Resources&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Human%20Resources&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=Human Resources&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=Human%20Resources&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=Human Resources&utm_source=1103">
+    <a href="https://jobright.ai/?utm_campaign=Human%20Resources&utm_source=1103">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -44,7 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, click the following sortable link below:
 </h4>
-<a href="https://newgrad-jobs.com/?selectedKey=👥%20Human%20Resources&utm_source=1103&utm_campaign=Human Resources">
+<a href="https://newgrad-jobs.com/?selectedKey=👥%20Human%20Resources&utm_source=1103&utm_campaign=Human%20Resources">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -264,8 +264,8 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies](http://www.tjx.com/)** | **[Human Resources Assistant](https://jobright-internal.com/jobs/info/66c8edf5612f8f0cec45fa8c?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, GA | On Site | Aug 22 |
 | **[NTT Data](https://www.nttdata.com/jp/ja/)** | **[Enrollment Coordinator II](https://jobright-internal.com/jobs/info/66c7ef97a92bdd1b22030ac0?utm_campaign=Human%20Resources&utm_source=1103)** | RI | On Site | Aug 22 |
 | **[R Carrier, Inc.](http://www.rlcarriers.com)** | **[Human Resources Benefits Coordinator](https://jobright-internal.com/jobs/info/66c7dd223c58266fd253139f?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, OH | On Site | Aug 22 |
-| **[Providence St. Joseph Health](https://www.psjhealth.org/)** | **[Commercial Benefits Manager](https://jobright-internal.com/jobs/info/66c9196fdddcdb1f4671f965?utm_campaign=Human%20Resources&utm_source=1103)** | Washington, United States | On Site | Aug 22 |
-| ↳ | **[Commercial Benefits Manager](https://jobright-internal.com/jobs/info/66c9196fdddcdb1f4671fa9b?utm_campaign=Human%20Resources&utm_source=1103)** | Oregon, United States | On Site | Aug 22 |
+| **[Providence St. Joseph Health](https://www.psjhealth.org/)** | **[Commercial Benefits Manager](https://jobright-internal.com/jobs/info/66c9196fdddcdb1f4671fa9b?utm_campaign=Human%20Resources&utm_source=1103)** | Oregon, United States | On Site | Aug 22 |
+| ↳ | **[Commercial Benefits Manager](https://jobright-internal.com/jobs/info/66c9196fdddcdb1f4671f965?utm_campaign=Human%20Resources&utm_source=1103)** | Washington, United States | On Site | Aug 22 |
 | ↳ | **[Commercial Benefits Manager](https://jobright-internal.com/jobs/info/66c9196fdddcdb1f4671fa9c?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | On Site | Aug 22 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Staffing Coordinator - Night Shift](https://jobright-internal.com/jobs/info/66c7d76696c6b8c176641053?utm_campaign=Human%20Resources&utm_source=1103)** | Broomfield, CO | On Site | Aug 22 |
 | **[Chotto Matte](http://www.chotto-matte.com)** | **[HR Assistant](https://jobright-internal.com/jobs/info/66c7f1ec8d115e966451ef06?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Aug 22 |
@@ -374,8 +374,8 @@ For a complete list, click the following sortable link below:
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Human Resources Assistant](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42c85?utm_campaign=Human%20Resources&utm_source=1103)** | Ocoee, FL | On Site | Aug 21 |
 | **[Jacksonville Sheriff's Office](http://www.jaxsheriff.org)** | **[Talent Acquisition Administrator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42cad?utm_campaign=Human%20Resources&utm_source=1103)** | Jacksonville, FL | On Site | Aug 21 |
 | **[Centene Corporation](http://www.centene.com)** | **[Care Management Support Coordinator II](https://jobright-internal.com/jobs/info/66c02e10ad86521072f68a24?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Aug 21 |
-| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e06?utm_campaign=Human%20Resources&utm_source=1103)** | Danbury, CT | On Site | Aug 21 |
-| ↳ | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e07?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | On Site | Aug 21 |
+| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e07?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | On Site | Aug 21 |
+| ↳ | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e06?utm_campaign=Human%20Resources&utm_source=1103)** | Danbury, CT | On Site | Aug 21 |
 | ↳ | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e08?utm_campaign=Human%20Resources&utm_source=1103)** | Wilton Center, CT | On Site | Aug 21 |
 | ↳ | **[Entry Level HR Assistant/Office Coordinator](https://jobright-internal.com/jobs/info/66c682114f6c4b8845b42e09?utm_campaign=Human%20Resources&utm_source=1103)** | New Haven, CT | On Site | Aug 21 |
 | **[Crusoe Energy Systems](https://www.crusoeenergy.com)** | **[Recruiting Coordinator](https://jobright-internal.com/jobs/info/66c66f9d4e383d0890e04026?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Aug 21 |
@@ -532,7 +532,4 @@ For a complete list, click the following sortable link below:
 | **[Xsolla](http://www.xsolla.com)** | **[Human Resources Coordinator](https://jobright-internal.com/jobs/info/66c51637a71ed5d1f55c88bc?utm_campaign=Human%20Resources&utm_source=1103)** | Raleigh, United States | Hybrid | Aug 19 |
 | **[Pathways](https://pways.org)** | **[Adult Crisis Center Case Manager](https://jobright-internal.com/jobs/info/66c4e1fd22c004bf04847ff2?utm_campaign=Human%20Resources&utm_source=1103)** | Caldwell, Idaho, United States | On Site | Aug 19 |
 | **[VibrantCare Rehabilitation](https://vibrantcare.com)** | **[Healthcare Recruiter/Sourcing Specialist](https://jobright-internal.com/jobs/info/66c3ee9d1ef31963b5e22708?utm_campaign=Human%20Resources&utm_source=1103)** | Mesa, AZ | Hybrid | Aug 19 |
-| **[Serco](https://www.serco.com)** | **[Personnel Employment Assistant](https://jobright-internal.com/jobs/info/66c3eafed0002deda2e5a436?utm_campaign=Human%20Resources&utm_source=1103)** | Glen Jean, WV | On Site | Aug 19 |
-| **[NYLAG](https://www.nylag.org)** | **[Financial Counselor](https://jobright-internal.com/jobs/info/66c3ebc03d87176e57fcf52b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Aug 19 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Workforce Management, Analyst](https://jobright-internal.com/jobs/info/66c3eaa24c23af48b74101c7?utm_campaign=Human%20Resources&utm_source=1103)** | Tempe, AZ | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
