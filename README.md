@@ -236,8 +236,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
@@ -299,7 +299,4 @@ For a complete list, click the following sortable link below:
 | **[KKR](http://www.kkr.com)** | **[Human Capital Talent Acquisition, Campus Recruiting Analyst (Boston)](https://jobright.ai/jobs/info/68cb068bd905e25191d9e65f?utm_campaign=Human%20Resources&utm_source=1103)** | Boston | On Site | Sep 27 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68d88921c9952514e1e95c37?utm_campaign=Human%20Resources&utm_source=1103)** | Fuquay-Varina, NC | On Site | Sep 27 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Associate](https://jobright.ai/jobs/info/68d5be8b2116ff37ee08feef?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Upstream Rehabilitation](http://www.upstreamrehabilitation.com/)** | **[Physical Therapist - Visit Based Earning](https://jobright.ai/jobs/info/68c86a46f9c6ff7aedf0e72f?utm_campaign=Human%20Resources&utm_source=1103)** | East Ridge, TN | On Site | Sep 27 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[Attorney Recruiting Assistant](https://jobright.ai/jobs/info/68bfc5c98e65e77df55bd05a?utm_campaign=Human%20Resources&utm_source=1103)** | Silicon Valley, CA | Hybrid | Sep 27 |
-| **[Activate](https://www.activate.org/)** | **[Fellowship Associate, Anywhere](https://jobright.ai/jobs/info/68d848737a37c712687d95a7?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Hybrid | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
