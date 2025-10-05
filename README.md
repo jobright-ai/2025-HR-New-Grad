@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/688a12d309808a6103e4c868?utm_campaign=Human%20Resources&utm_source=1103)** | Bowie, MD | On Site | Oct 03 |
 | **[Mitratech](http://www.mitratech.com)** | **[HR Coordinator, Advisory Experts (Temporary)](https://jobright.ai/jobs/info/68c3794380e77b1fa6fc97f6?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[ProService Hawaii](https://www.proservice.com)** | **[Workers' Compensation Claims Coordinator](https://jobright.ai/jobs/info/688bcda6906ac06e1d1ce854?utm_campaign=Human%20Resources&utm_source=1103)** | Honolulu, HI | Hybrid | Oct 03 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - Career Development Program](https://jobright.ai/jobs/info/688957649f961617fe213ba8?utm_campaign=Human%20Resources&utm_source=1103)** | Concord, CA | On Site | Oct 03 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Claim Associate I – Entry-Level Workers’ Compensation Adjuster Training Program (Reno, NV)](https://jobright.ai/jobs/info/68c356b080e77b1fa6fc870b?utm_campaign=Human%20Resources&utm_source=1103)** | Reno, NV | On Site | Oct 03 |
 | **[Charles River Associates](http://www.crai.com)** | **[Talent Acquisition Assistant](https://jobright.ai/jobs/info/68a6cb56b6a3617d7fa7abe1?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Analyst, HR Business Partner](https://jobright.ai/jobs/info/68cc67c57342c7623ae645d3?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 03 |
@@ -248,9 +249,9 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
