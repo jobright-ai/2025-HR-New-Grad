@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Full Time Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68ce4f39dbd9fb154edddddc?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Red Ventures](http://www.redventures.com)** | **[Associate HR Operations Partner](https://jobright.ai/jobs/info/68d77b29267b154f9a2da1d1?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 04 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Analyst/Eligibility Representative (Remote)](https://jobright.ai/jobs/info/68cd9d24b2a74e1837ed9a99?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | Remote | Oct 04 |
@@ -250,9 +251,9 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
@@ -291,7 +292,4 @@ For a complete list, click the following sortable link below:
 | **[ViaQuest, Inc.](http://viaquestinc.com/)** | **[Behavioral Health Recruiter](https://jobright.ai/jobs/info/68dae69e6df7b8311bb13ed9?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Sep 28 |
 | **[Community Options (ND)](https://www.communityoptionsnd.com)** | **[Program Coordinator Assistant](https://jobright.ai/jobs/info/68db2898e9b48513789b22fd?utm_campaign=Human%20Resources&utm_source=1103)** | Jamestown, ND | On Site | Sep 28 |
 | **[Northeast Arc](https://ne-arc.org/)** | **[Program Case Manager (Stoneham)](https://jobright.ai/jobs/info/68daa86a07c157682e56c0eb?utm_campaign=Human%20Resources&utm_source=1103)** | Danvers, MA | On Site | Sep 28 |
-| **[Pilsen Wellness Center, Inc.](https://www.pilsenwellnesscenter.org/)** | **[Employment Specialist - IPS Program (Full Time)](https://jobright.ai/jobs/info/68daeeed6df7b8311bb142e1?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Sep 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Field Recruiter](https://jobright.ai/jobs/info/68daf2180dffed6f83d2b16b?utm_campaign=Human%20Resources&utm_source=1103)** | Appleton, WI | Hybrid | Sep 28 |
-| ↳ | **[Copy of Field Recruiter](https://jobright.ai/jobs/info/68daf2560dffed6f83d2b1e5?utm_campaign=Human%20Resources&utm_source=1103)** | Omaha, NE | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
