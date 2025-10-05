@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Associate, Recruiter - Students and Grads](https://jobright.ai/jobs/info/68cabf8a9e3a822f5d23e9f7?utm_campaign=Human%20Resources&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/686c60b635584b654260bfec?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[nVent](https://www.nvent.com/)** | **[HR Coordinator](https://jobright.ai/jobs/info/68c0c8eb5c5d5f14f46e0f5e?utm_campaign=Human%20Resources&utm_source=1103)** | Blaine, MN | On Site | Oct 01 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Talent Acquisition Coordinator - Temporary](https://jobright.ai/jobs/info/68cdf9ffe23def7af55c0c10?utm_campaign=Human%20Resources&utm_source=1103)** | San Diego, CA | Hybrid | Oct 01 |
 | **[MGA Homecare](https://mgahomecare.com/)** | **[Healthcare Recruiter](https://jobright.ai/jobs/info/68db129a6df7b8311bb15e54?utm_campaign=Human%20Resources&utm_source=1103)** | Fayetteville, NC | On Site | Oct 01 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68618988398087ddd8ab4b2d?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 01 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/68cd0ce61ad6b16f028941ec?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 01 |
@@ -230,7 +229,6 @@ For a complete list, click the following sortable link below:
 | **[Spooner Physical Therapy](https://www.spoonerpt.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68dae25807c157682e56ee88?utm_campaign=Human%20Resources&utm_source=1103)** | Scottsdale, AZ, USA | On Site | Sep 29 |
 | **[Bethany Christian Services](https://bethany.org/)** | **[Recruiter - Remote within Grand Rapids, MI Area](https://jobright.ai/jobs/info/68dae2550b832179ca4b24cd?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | Remote | Sep 29 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[Human Resources Assistant (HRA)](https://jobright.ai/jobs/info/68dae1376df7b8311bb137d2?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, OH | On Site | Sep 29 |
-| **[Eurest USA](https://eurest-usa.com)** | **[ADMINISTRATIVE ASSISTANT (FULL TIME)](https://jobright.ai/jobs/info/68dae10f6df7b8311bb13762?utm_campaign=Human%20Resources&utm_source=1103)** | Waterloo, IA | On Site | Sep 29 |
 | **[AHEDD](https://www.ahedd.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68dadd716df7b8311bb13530?utm_campaign=Human%20Resources&utm_source=1103)** | Bethlehem, PA | Hybrid | Sep 29 |
 | **[Asset Living](https://www.assetliving.com/)** | **[Community Manager](https://jobright.ai/jobs/info/68dadd0d0b832179ca4b1f6e?utm_campaign=Human%20Resources&utm_source=1103)** | El Paso, TX | On Site | Sep 29 |
 | ↳ | **[Community Manager](https://jobright.ai/jobs/info/68dadce10b832179ca4b1eaf?utm_campaign=Human%20Resources&utm_source=1103)** | Abilene, TX | On Site | Sep 29 |
@@ -250,9 +248,9 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
@@ -292,10 +290,6 @@ For a complete list, click the following sortable link below:
 | **[Community Options (ND)](https://www.communityoptionsnd.com)** | **[Program Coordinator Assistant](https://jobright.ai/jobs/info/68db2898e9b48513789b22fd?utm_campaign=Human%20Resources&utm_source=1103)** | Jamestown, ND | On Site | Sep 28 |
 | **[Northeast Arc](https://ne-arc.org/)** | **[Program Case Manager (Stoneham)](https://jobright.ai/jobs/info/68daa86a07c157682e56c0eb?utm_campaign=Human%20Resources&utm_source=1103)** | Danvers, MA | On Site | Sep 28 |
 | **[Pilsen Wellness Center, Inc.](https://www.pilsenwellnesscenter.org/)** | **[Employment Specialist - IPS Program (Full Time)](https://jobright.ai/jobs/info/68daeeed6df7b8311bb142e1?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Sep 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Field Recruiter](https://jobright.ai/jobs/info/68daf2180dffed6f83d2b16b?utm_campaign=Human%20Resources&utm_source=1103)** | Appleton, WI | Hybrid | Sep 28 |
-| ↳ | **[Copy of Field Recruiter](https://jobright.ai/jobs/info/68daf2560dffed6f83d2b1e5?utm_campaign=Human%20Resources&utm_source=1103)** | Omaha, NE | Hybrid | Sep 28 |
-| **[Sterling Engineering](http://sterling-engineering.com)** | **[Recruiter - Buffalo Grove](https://jobright.ai/jobs/info/68d971179a8e451a446a4ae2?utm_campaign=Human%20Resources&utm_source=1103)** | Buffalo Grove, IL | On Site | Sep 28 |
-| **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[Talent Development Coordinator](https://jobright.ai/jobs/info/68d968c09a8e451a446a4a4a?utm_campaign=Human%20Resources&utm_source=1103)** | Red Wing, MN | Hybrid | Sep 28 |
-| **[BuildOps](http://buildops.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68840eda835a903aa07f9e7f?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 28 |
-| **[Goodwill Industries of the Inland Northwest](https://discovergoodwill.org/)** | **[WFS Employment Specialist](https://jobright.ai/jobs/info/68d963e3022fc803b4877180?utm_campaign=Human%20Resources&utm_source=1103)** | Lewiston, ID | On Site | Sep 28 |
+| **[Renuity](http://renuityhome.com/)** | **[Copy of Field Recruiter](https://jobright.ai/jobs/info/68daf2560dffed6f83d2b1e5?utm_campaign=Human%20Resources&utm_source=1103)** | Omaha, NE | Hybrid | Sep 28 |
+| ↳ | **[Field Recruiter](https://jobright.ai/jobs/info/68daf2180dffed6f83d2b16b?utm_campaign=Human%20Resources&utm_source=1103)** | Appleton, WI | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
