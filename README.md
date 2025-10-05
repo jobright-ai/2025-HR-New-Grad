@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
+| **[Housing Works](http://www.housingworks.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/688b189809808a6103e54b32?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Full Time Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68ce4f39dbd9fb154edddddc?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Red Ventures](http://www.redventures.com)** | **[Associate HR Operations Partner](https://jobright.ai/jobs/info/68d77b29267b154f9a2da1d1?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 04 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Analyst/Eligibility Representative (Remote)](https://jobright.ai/jobs/info/68cd9d24b2a74e1837ed9a99?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | Remote | Oct 04 |
@@ -282,11 +283,4 @@ For a complete list, click the following sortable link below:
 | **[Horizon Transport](http://horizontransport.co)** | **[Recruiter](https://jobright.ai/jobs/info/68da8bf40b832179ca4ae339?utm_campaign=Human%20Resources&utm_source=1103)** | Wakarusa, IN | On Site | Sep 29 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68d8d93b9a8e451a446a2ef1?utm_campaign=Human%20Resources&utm_source=1103)** | McMurray, PA | On Site | Sep 29 |
 | **[Top Tier Trees](https://toptiertrees.com)** | **[Analyst, Competitive Intelligence (Hybrid)](https://jobright.ai/jobs/info/68da2d260b832179ca4abb09?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | Hybrid | Sep 28 |
-| **[AlphaSights](http://www.alphasights.com)** | **[US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2026](https://jobright.ai/jobs/info/68cec317fb49c96ca6ea34cd?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Sep 28 |
-| **[Pacific Neuropsychiatric Specialists](https://pnsoc.com/)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/68da19706df7b8311bb0c50f?utm_campaign=Human%20Resources&utm_source=1103)** | Irvine, CA | On Site | Sep 28 |
-| **[Concorde Career Colleges](https://www.concorde.edu/)** | **[Graduate Employment Specialist - CCC](https://jobright.ai/jobs/info/68ce9944fb49c96ca6ea1f07?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Sep 28 |
-| **[A La C.A.R.T.E. Solutions - ALC](https://www.alacarte-solutions.com)** | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da122d3c03cd3270942b52?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | Remote | Sep 28 |
-| ↳ | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da11fd3c03cd32709429f3?utm_campaign=Human%20Resources&utm_source=1103)** | Houston, TX | Remote | Sep 28 |
-| ↳ | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da11ec3c03cd327094299f?utm_campaign=Human%20Resources&utm_source=1103)** | Spokane, WA | Remote | Sep 28 |
-| ↳ | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da115f0b832179ca4aad08?utm_campaign=Human%20Resources&utm_source=1103)** | Des Moines, IA | Remote | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
