@@ -251,9 +251,9 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
@@ -288,8 +288,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da11ec3c03cd327094299f?utm_campaign=Human%20Resources&utm_source=1103)** | Spokane, WA | Remote | Sep 28 |
 | ↳ | **[HR Coordinator (Remote)](https://jobright.ai/jobs/info/68da115f0b832179ca4aad08?utm_campaign=Human%20Resources&utm_source=1103)** | Des Moines, IA | Remote | Sep 28 |
 | **[Advantage Home Care](http://www.advantagehomehealth.com)** | **[Payroll Coordinator - Salem, MO](https://jobright.ai/jobs/info/68d9ff846df7b8311bb0b728?utm_campaign=Human%20Resources&utm_source=1103)** | Salem, MO | On Site | Sep 28 |
-| **[Blank Street](https://www.blankstreet.com/)** | **[People Ops Coordinator](https://jobright.ai/jobs/info/68db2dd96df7b8311bb16a16?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Sep 28 |
-| **[ViaQuest, Inc.](http://viaquestinc.com/)** | **[Behavioral Health Recruiter](https://jobright.ai/jobs/info/68dae69e6df7b8311bb13ed9?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Sep 28 |
-| **[Community Options (ND)](https://www.communityoptionsnd.com)** | **[Program Coordinator Assistant](https://jobright.ai/jobs/info/68db2898e9b48513789b22fd?utm_campaign=Human%20Resources&utm_source=1103)** | Jamestown, ND | On Site | Sep 28 |
-| **[Northeast Arc](https://ne-arc.org/)** | **[Program Case Manager (Stoneham)](https://jobright.ai/jobs/info/68daa86a07c157682e56c0eb?utm_campaign=Human%20Resources&utm_source=1103)** | Danvers, MA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
