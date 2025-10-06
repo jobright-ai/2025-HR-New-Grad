@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Associate, Recruiter - Students and Grads](https://jobright.ai/jobs/info/68cabf8a9e3a822f5d23e9f7?utm_campaign=Human%20Resources&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/686c60b635584b654260bfec?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[nVent](https://www.nvent.com/)** | **[HR Coordinator](https://jobright.ai/jobs/info/68c0c8eb5c5d5f14f46e0f5e?utm_campaign=Human%20Resources&utm_source=1103)** | Blaine, MN | On Site | Oct 01 |
+| **[IXL Learning](https://www.ixl.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c0cb408e65e77df55c4643?utm_campaign=Human%20Resources&utm_source=1103)** | San Mateo, CA | On Site | Oct 01 |
 | **[MGA Homecare](https://mgahomecare.com/)** | **[Healthcare Recruiter](https://jobright.ai/jobs/info/68db129a6df7b8311bb15e54?utm_campaign=Human%20Resources&utm_source=1103)** | Fayetteville, NC | On Site | Oct 01 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68618988398087ddd8ab4b2d?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 01 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/68cd0ce61ad6b16f028941ec?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 01 |
@@ -255,8 +256,8 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
