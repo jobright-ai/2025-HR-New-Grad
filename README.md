@@ -259,8 +259,8 @@ For a complete list, click the following sortable link below:
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac6d10b832179ca4b0cc9?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, NC | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
@@ -275,9 +275,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Insomniac - Talent Coordinator](https://jobright.ai/jobs/info/68db49e6e19b9e63ba20a53b?utm_campaign=Human%20Resources&utm_source=1103)** | Calabasas, CA | On Site | Sep 29 |
 | **[LifeStance Health](https://lifestance.com/)** | **[Licensed Associate Counselor of Mental Health (LACMH)](https://jobright.ai/jobs/info/68db384ae19b9e63ba2096e3?utm_campaign=Human%20Resources&utm_source=1103)** | Millsboro, DE | Hybrid | Sep 29 |
 | **[TCW](http://www.tcw.com)** | **[HR Analyst](https://jobright.ai/jobs/info/688419fd6fcd973d15ae59a7?utm_campaign=Human%20Resources&utm_source=1103)** | LA Metro Area | On Site | Sep 29 |
-| **[Results Physiotherapy](https://www.resultspt.com)** | **[Physical Therapist - Visit Based Earning](https://jobright.ai/jobs/info/68c869ae95f5211cd2ce49e0?utm_campaign=Human%20Resources&utm_source=1103)** | East Ridge, TN | On Site | Sep 29 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Human Resource Assistant](https://jobright.ai/jobs/info/68daa8936df7b8311bb10b31?utm_campaign=Human%20Resources&utm_source=1103)** | Voorheesville, NY | Hybrid | Sep 29 |
-| **[AdvanceCare Health Services, LLC](http://tnadvancecare.com)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68dab9866df7b8311bb11878?utm_campaign=Human%20Resources&utm_source=1103)** | Bruceton, TN | Hybrid | Sep 29 |
-| **[Anchor Health Home Care](https://anchorhc.org)** | **[Homecare Field Recruiter – Bilingual (Chinese/English)](https://jobright.ai/jobs/info/68dab0150b832179ca4afb7b?utm_campaign=Human%20Resources&utm_source=1103)** | Queens, NY | On Site | Sep 29 |
-| **[SunVest Solar, LLC](https://www.sunvest.com/)** | **[People Analyst](https://jobright.ai/jobs/info/68da976d07c157682e56b30e?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
