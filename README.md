@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68ca2f92f61c922772a74273?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 03 |
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Staffing Coordinator, Goodwill Staffing](https://jobright.ai/jobs/info/68d30486f0d9af73038de278?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Human Resources Representative](https://jobright.ai/jobs/info/68c19afd4d652f0447758638?utm_campaign=Human%20Resources&utm_source=1103)** | Rosemont, IL | On Site | Oct 02 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Campus Recruiting Coordinator](https://jobright.ai/jobs/info/68a5bccab6a3617d7fa72fcf?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b9d1f86105227d1189814a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 02 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Office Assistant - Talent Search](https://jobright.ai/jobs/info/68ccc3f7d99309000e5a2f57?utm_campaign=Human%20Resources&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 02 |
 | **[NFI](http://www.nfiindustries.com/)** | **[CDL A Owner Operator - Norfolk Drayage](https://jobright.ai/jobs/info/68c78711db52c07d2884b650?utm_campaign=Human%20Resources&utm_source=1103)** | Norfolk, VA | On Site | Oct 02 |
@@ -257,8 +258,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68e07c157682e56d63b?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac68c0b832179ca4b0bd4?utm_campaign=Human%20Resources&utm_source=1103)** | Kimball, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f56?utm_campaign=Human%20Resources&utm_source=1103)** | Brownsville, TX | On Site | Sep 29 |
-| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f54?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, TN | On Site | Sep 29 |
+| ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac66e6df7b8311bb11f57?utm_campaign=Human%20Resources&utm_source=1103)** | Albertville, AL | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Custom Protection Site Supervisor](https://jobright.ai/jobs/info/68dac66707c157682e56d5bb?utm_campaign=Human%20Resources&utm_source=1103)** | US-MD-Sparrows Point | On Site | Sep 29 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac64f07c157682e56d54f?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
 | ↳ | **[Human Resources MDP](https://jobright.ai/jobs/info/68dac63907c157682e56d4c2?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Sep 29 |
@@ -281,5 +282,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Vermont Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Unit Secretary/Labor & Delivery Assistant - Labor and Delivery](https://jobright.ai/jobs/info/68da88fb0b832179ca4ae272?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68bcfc83ae79610dacddcf61?utm_campaign=Human%20Resources&utm_source=1103)** | Jacksonville, FL | On Site | Sep 29 |
 | **[Central Transport](http://www.centraltransport.com/)** | **[Human Resources Recruiter](https://jobright.ai/jobs/info/68da8d026df7b8311bb0faad?utm_campaign=Human%20Resources&utm_source=1103)** | Warren, MI | On Site | Sep 29 |
-| **[Horizon Transport](http://horizontransport.co)** | **[Recruiter](https://jobright.ai/jobs/info/68da8bf40b832179ca4ae339?utm_campaign=Human%20Resources&utm_source=1103)** | Wakarusa, IN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
