@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c8c9f095f5211cd2ce9476?utm_campaign=Human%20Resources&utm_source=1103)** | Rockingham, NC | On Site | Oct 06 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiter - Entry Level](https://jobright.ai/jobs/info/68d198a717554c2d9eedd28c?utm_campaign=Human%20Resources&utm_source=1103)** | Indianapolis, IN | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68cc0b1c7342c7623ae5de5c?utm_campaign=Human%20Resources&utm_source=1103)** | Orange, MA | On Site | Oct 05 |
 | **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[Talent Acquisition Assistant](https://jobright.ai/jobs/info/68a826db33dd7158bbcac96c?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Operations Analyst, Air Defense](https://jobright.ai/jobs/info/68c3614380e77b1fa6fc8bfb?utm_campaign=Human%20Resources&utm_source=1103)** | Irvine, CA | On Site | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c2f39563829b0a8a4fe456?utm_campaign=Human%20Resources&utm_source=1103)** | Homestead, FL | On Site | Oct 03 |
+| **[Ellison Medical Institute](https://ellison.usc.edu/)** | **[Talent Program Specialist](https://jobright.ai/jobs/info/68c31f435001f8077bf6156c?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Strategic Legal Practices, APC](https://www.slpattorney.com/)** | **[Recruitment Assistant](https://jobright.ai/jobs/info/68c2341933864f172f9bdc04?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 03 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68c19232233c7d3e64d025e6?utm_campaign=Human%20Resources&utm_source=1103)** | Oneida, NY | On Site | Oct 03 |
@@ -132,14 +134,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary General Talent Pool at NC State and UNC Chapel Hill](https://jobright.ai/jobs/info/6874c596ae2f413e4a5a0321?utm_campaign=Human%20Resources&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 30 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b8715a5b42bc45628247ce?utm_campaign=Human%20Resources&utm_source=1103)** | West Chester, OH | On Site | Sep 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Talent Coordinator](https://jobright.ai/jobs/info/68ce9904846f0b04af67b6c0?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | Hybrid | Sep 30 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[National Sales Recruiter](https://jobright.ai/jobs/info/6893a747f47efe2113965c1c?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati Metro | On Site | Sep 30 |
-| ↳ | **[National Sales Recruiter](https://jobright.ai/jobs/info/68b87108ea901c0d269f6374?utm_campaign=Human%20Resources&utm_source=1103)** | Erlanger, KY | On Site | Sep 30 |
-| ↳ | **[National Sales Recruiter](https://jobright.ai/jobs/info/68b86ccb5b42bc4562824568?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Sep 30 |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[National Sales Recruiter](https://jobright.ai/jobs/info/68b86ccb5b42bc4562824568?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Sep 30 |
 | ↳ | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b86bf2ea901c0d269f60b7?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Sep 30 |
-| ↳ | **[Entry Level Recruiter](https://jobright.ai/jobs/info/6893a833f47efe2113965caa?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati Metro | On Site | Sep 30 |
-| ↳ | **[National Sales Recruiter](https://jobright.ai/jobs/info/68b86d1907090163b6ba18e6?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati Metro | On Site | Sep 30 |
 | **[Altasciences](http://www.algopharm.com)** | **[Participant Recruitment Agent (Chinese Bilingual)](https://jobright.ai/jobs/info/67bfbea0dd43429077fa238f?utm_campaign=Human%20Resources&utm_source=1103)** | Cypress, CA | On Site | Sep 30 |
-| **[The Grand Healthcare System](https://thegrandhealthcare.com/)** | **[Staffing Coordinator](https://jobright.ai/jobs/info/68dba80aaa5f2e0e3c2f56d6?utm_campaign=Human%20Resources&utm_source=1103)** | Stamford, NY | On Site | Sep 30 |
-| **[Plexus Corp.](http://www.plexus.com/)** | **[HR Generalist](https://jobright.ai/jobs/info/68ccda355954791a1d6ffd96?utm_campaign=Human%20Resources&utm_source=1103)** | Nampa, ID | On Site | Sep 30 |
-| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Healthcare Recruiter](https://jobright.ai/jobs/info/68db97a89f13662d20e4ec8d?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
