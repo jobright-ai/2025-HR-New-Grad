@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c8c9f095f5211cd2ce9476?utm_campaign=Human%20Resources&utm_source=1103)** | Rockingham, NC | On Site | Oct 06 |
+| **[Egan Company](https://www.eganco.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68ce33611ad6b16f028a2f04?utm_campaign=Human%20Resources&utm_source=1103)** | Champlin, MN | Hybrid | Oct 06 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiter - Entry Level](https://jobright.ai/jobs/info/68d198a717554c2d9eedd28c?utm_campaign=Human%20Resources&utm_source=1103)** | Indianapolis, IN | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68cc0b1c7342c7623ae5de5c?utm_campaign=Human%20Resources&utm_source=1103)** | Orange, MA | On Site | Oct 05 |
 | **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
