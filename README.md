@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
+| **[GFT](https://www.gftinc.com/)** | **[Relocation Specialist](https://jobright.ai/jobs/info/68c8583995f5211cd2ce3cc7?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clara, CA | Hybrid | Oct 07 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c8c9f095f5211cd2ce9476?utm_campaign=Human%20Resources&utm_source=1103)** | Rockingham, NC | On Site | Oct 06 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68ce33611ad6b16f028a2f04?utm_campaign=Human%20Resources&utm_source=1103)** | Champlin, MN | Hybrid | Oct 06 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiter - Entry Level](https://jobright.ai/jobs/info/68d198a717554c2d9eedd28c?utm_campaign=Human%20Resources&utm_source=1103)** | Indianapolis, IN | On Site | Oct 05 |
@@ -128,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/68ca53d85f9f0336447dbe0a?utm_campaign=Human%20Resources&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 30 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A/B](https://jobright.ai/jobs/info/68d5a9f21f7fb2169ab12c8a?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026 (Philadelphia, PA)](https://jobright.ai/jobs/info/68bf70ab8e65e77df55ba41c?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
-| **[The Wendy's Company](http://www.wendys.com)** | **[Specialist - HR & Total Rewards](https://jobright.ai/jobs/info/68a3d17137d3cc6b0d579d89?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
