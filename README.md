@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
+| **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Associate Account Director, Talent & Learning - Search & Staffing](https://jobright.ai/jobs/info/68ad1b47daf1431824c9a734?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68c4c904fce86561b928962b?utm_campaign=Human%20Resources&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[HUMAN RESOURCES SPECIALIST III AND IV - OAHU](https://jobright.ai/jobs/info/676ba73dc9a0569131f93f3f?utm_campaign=Human%20Resources&utm_source=1103)** | Honolulu County, HI | On Site | Oct 04 |
 | **[Yakima Valley Farm Workers Clinic](https://www.yvfwc.com/)** | **[Patient Benefits Coordinator](https://jobright.ai/jobs/info/681a478cb877b404ad518932?utm_campaign=Human%20Resources&utm_source=1103)** | Salem, OR | On Site | Oct 04 |
+| **[General Mills](http://www.generalmills.com)** | **[Sourcing Analyst - Campus Recruiting](https://jobright.ai/jobs/info/68cb997befdec76df36bf4ae?utm_campaign=Human%20Resources&utm_source=1103)** | Minneapolis, MN | On Site | Oct 04 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Full Time Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68ce4f39dbd9fb154edddddc?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Event & Development Coordinator](https://jobright.ai/jobs/info/68cd650f1ad6b16f02899257?utm_campaign=Human%20Resources&utm_source=1103)** | Holmdel, NJ | On Site | Oct 04 |
 | **[Red Ventures](http://www.redventures.com)** | **[Associate HR Operations Partner](https://jobright.ai/jobs/info/68d77b29267b154f9a2da1d1?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 04 |
@@ -127,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Associate, Recruiter - Students and Grads](https://jobright.ai/jobs/info/68cabf8a9e3a822f5d23e9f7?utm_campaign=Human%20Resources&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
 | ↳ | **[Associate, Recruiter - Students and Grads](https://jobright.ai/jobs/info/68d1bcaca54edb3bf3e15b0c?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 02 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/686c60b635584b654260bfec?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
-| **[nVent](https://www.nvent.com/)** | **[HR Coordinator](https://jobright.ai/jobs/info/68c0c8eb5c5d5f14f46e0f5e?utm_campaign=Human%20Resources&utm_source=1103)** | Blaine, MN | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
