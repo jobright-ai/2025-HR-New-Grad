@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Unlicensed Team Lead - Mental Health 343](https://jobright.ai/jobs/info/68c8c96ff9c6ff7aedf12996?utm_campaign=Human%20Resources&utm_source=1103)** | Alameda, CA | On Site | Oct 07 |
 | **[GFT](https://www.gftinc.com/)** | **[Relocation Specialist](https://jobright.ai/jobs/info/68c8583995f5211cd2ce3cc7?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clara, CA | Hybrid | Oct 07 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead - Unlicensed - ASW AMFT APCC - Mental Health 393](https://jobright.ai/jobs/info/68c8c894f9c6ff7aedf128a2?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
+| **[Via](http://www.ridewithvia.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ce719afb49c96ca6ea0802?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 06 |
 | **[Lendbuzz](https://lendbuzz.com)** | **[Sales Talent and Development Coordinator](https://jobright.ai/jobs/info/68cdad26e23def7af55bdbe1?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | On Site | Oct 06 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[GBS Voluntary Benefits Experienced Underwriter](https://jobright.ai/jobs/info/68a6b7ab33dd7158bbca23bf?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c8c9f095f5211cd2ce9476?utm_campaign=Human%20Resources&utm_source=1103)** | Rockingham, NC | On Site | Oct 06 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68ce33611ad6b16f028a2f04?utm_campaign=Human%20Resources&utm_source=1103)** | Champlin, MN | Hybrid | Oct 06 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Account Representative - January 2026 Career Development Program](https://jobright.ai/jobs/info/688bec1a3a30793eb963ebb1?utm_campaign=Human%20Resources&utm_source=1103)** | Buffalo, NY | On Site | Oct 05 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiter - Entry Level](https://jobright.ai/jobs/info/68d198a717554c2d9eedd28c?utm_campaign=Human%20Resources&utm_source=1103)** | Indianapolis, IN | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68cc0b1c7342c7623ae5de5c?utm_campaign=Human%20Resources&utm_source=1103)** | Orange, MA | On Site | Oct 05 |
 | **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
