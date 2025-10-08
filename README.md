@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/68cd0ce61ad6b16f028941ec?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 01 |
 | **[County of Santa Barbara](http://www.countyofsb.org/)** | **[Human Resources Analyst - Workforce Planning](https://jobright.ai/jobs/info/68cdb91fb2a74e1837edb9c7?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Barbara, CA | On Site | Oct 01 |
 | **[POET](http://www.poet.com)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/68c45aad14bb275ce0192a21?utm_campaign=Human%20Resources&utm_source=1103)** | Glenville, MN | On Site | Oct 01 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Homescan Field Representative (Spanish Speaker)](https://jobright.ai/jobs/info/68c0b882702aa35207aafdee?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
