@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
+| **[LinkedIn](https://www.linkedin.com)** | **[Associate Account Director, Talent & Learning - Search & Staffing](https://jobright.ai/jobs/info/68ad1b47daf1431824c9a734?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
+| **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Centria Autism](http://www.centriahealth.com)** | **[Staffing and Operations Specialist](https://jobright.ai/jobs/info/68d64051ebcef82ef5cf8713?utm_campaign=Human%20Resources&utm_source=1103)** | Tempe, AZ | On Site | Oct 07 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Unlicensed Team Lead - Mental Health 343](https://jobright.ai/jobs/info/68c8c96ff9c6ff7aedf12996?utm_campaign=Human%20Resources&utm_source=1103)** | Alameda, CA | On Site | Oct 07 |
@@ -125,5 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Recruiter - Students and Grads](https://jobright.ai/jobs/info/68d1bcaca54edb3bf3e15b0c?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 02 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/686c60b635584b654260bfec?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[nVent](https://www.nvent.com/)** | **[HR Coordinator](https://jobright.ai/jobs/info/68c0c8eb5c5d5f14f46e0f5e?utm_campaign=Human%20Resources&utm_source=1103)** | Blaine, MN | On Site | Oct 01 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c0cb408e65e77df55c4643?utm_campaign=Human%20Resources&utm_source=1103)** | San Mateo, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
