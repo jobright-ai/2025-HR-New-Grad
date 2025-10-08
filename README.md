@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate, People Business Partner](https://jobright.ai/jobs/info/686c60b635584b654260bfec?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[nVent](https://www.nvent.com/)** | **[HR Coordinator](https://jobright.ai/jobs/info/68c0c8eb5c5d5f14f46e0f5e?utm_campaign=Human%20Resources&utm_source=1103)** | Blaine, MN | On Site | Oct 01 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c0cb408e65e77df55c4643?utm_campaign=Human%20Resources&utm_source=1103)** | San Mateo, CA | On Site | Oct 01 |
-| **[MGA Homecare](https://mgahomecare.com/)** | **[Healthcare Recruiter](https://jobright.ai/jobs/info/68db129a6df7b8311bb15e54?utm_campaign=Human%20Resources&utm_source=1103)** | Fayetteville, NC | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
