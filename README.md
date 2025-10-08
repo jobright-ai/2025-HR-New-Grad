@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Access Services](https://www.accessservices.org)** | **[Home and Community Supports Assistant Supervisor](https://jobright.ai/jobs/info/68bb08118043103d4f2250aa?utm_campaign=Human%20Resources&utm_source=1103)** | Fort Washington, PA | On Site | Oct 01 |
 | **[HMTX Industries](https://hmtx.global)** | **[HR Generalist](https://jobright.ai/jobs/info/68d2f15bf0d9af73038dd373?utm_campaign=Human%20Resources&utm_source=1103)** | Norwalk, CT | On Site | Oct 01 |
 | **[Trident Seafoods](http://www.tridentseafoods.com/)** | **[HUMAN RESOURCES COORDINATOR - BILINGUAL](https://jobright.ai/jobs/info/68ce7201fb49c96ca6ea089f?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | On Site | Oct 01 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026 (Chattanooga, TN))](https://jobright.ai/jobs/info/68bf70fe8e65e77df55ba468?utm_campaign=Human%20Resources&utm_source=1103)** | Chattanooga, TN | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
