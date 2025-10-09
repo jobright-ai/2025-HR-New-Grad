@@ -59,8 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
 | **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
+| **[Torrance Memorial](https://www.torrancememorial.org)** | **[Case Management Discharge Assistant - FT Days](https://jobright.ai/jobs/info/6892c167f5ee707a15dc807e?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 09 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[HR Coordinator III](https://jobright.ai/jobs/info/68ccdac45954791a1d6fff48?utm_campaign=Human%20Resources&utm_source=1103)** | Winston-Salem, NC | On Site | Oct 09 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Analyst, HR Business Partner](https://jobright.ai/jobs/info/68cc67c57342c7623ae645d3?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68ca2f92f61c922772a74273?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 03 |
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Staffing Coordinator, Goodwill Staffing](https://jobright.ai/jobs/info/68d30486f0d9af73038de278?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Oct 03 |
-| **[HDR](http://www.hdrinc.com)** | **[Human Resources Representative](https://jobright.ai/jobs/info/68c19afd4d652f0447758638?utm_campaign=Human%20Resources&utm_source=1103)** | Rosemont, IL | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
