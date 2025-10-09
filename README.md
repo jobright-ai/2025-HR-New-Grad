@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
 | **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[HR Coordinator III](https://jobright.ai/jobs/info/68ccdac45954791a1d6fff48?utm_campaign=Human%20Resources&utm_source=1103)** | Winston-Salem, NC | On Site | Oct 09 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68ca2f92f61c922772a74273?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 03 |
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Staffing Coordinator, Goodwill Staffing](https://jobright.ai/jobs/info/68d30486f0d9af73038de278?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Human Resources Representative](https://jobright.ai/jobs/info/68c19afd4d652f0447758638?utm_campaign=Human%20Resources&utm_source=1103)** | Rosemont, IL | On Site | Oct 02 |
-| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Campus Recruiting Coordinator](https://jobright.ai/jobs/info/68a5bccab6a3617d7fa72fcf?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
