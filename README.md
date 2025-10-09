@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0cc01ad6b16f02894195?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[LINK Home Therapy](https://linkhometherapy.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/671426fa086b8b2f26a06a4d?utm_campaign=Human%20Resources&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Oct 05 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68aa5b986acf96396f729efe?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 05 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Program Aide, SG-13](https://jobright.ai/jobs/info/68c4d28d31e5763f188e3d88?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 05 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cdbfe7e23def7af55beb7e?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
 | **[GBMC HealthCare](http://www.gbmc.org/)** | **[Unit Secretary Labor & Delivery FT Nights](https://jobright.ai/jobs/info/68c2b0ee5adaee6c9bda3534?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 05 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Office Assistant 1, SG-06](https://jobright.ai/jobs/info/68c4d137fce86561b9289902?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Housing Works](http://www.housingworks.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/688b189809808a6103e54b32?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
@@ -123,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Campus Recruiting Coordinator](https://jobright.ai/jobs/info/68a5bccab6a3617d7fa72fcf?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b9d1f86105227d1189814a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 02 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Office Assistant - Talent Search](https://jobright.ai/jobs/info/68ccc3f7d99309000e5a2f57?utm_campaign=Human%20Resources&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 02 |
-| **[NFI](http://www.nfiindustries.com/)** | **[CDL A Owner Operator - Norfolk Drayage](https://jobright.ai/jobs/info/68c78711db52c07d2884b650?utm_campaign=Human%20Resources&utm_source=1103)** | Norfolk, VA | On Site | Oct 02 |
-| **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[University Recruiting Coordinator - San Francisco Bay Area](https://jobright.ai/jobs/info/68cfe1fd846f0b04af685b39?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco County, CA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
