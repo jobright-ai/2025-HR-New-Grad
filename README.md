@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[HR Coordinator III](https://jobright.ai/jobs/info/68ccdac45954791a1d6fff48?utm_campaign=Human%20Resources&utm_source=1103)** | Winston-Salem, NC | On Site | Oct 09 |
+| **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Human Resources Representative](https://jobright.ai/jobs/info/68c19afd4d652f0447758638?utm_campaign=Human%20Resources&utm_source=1103)** | Rosemont, IL | On Site | Oct 02 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Campus Recruiting Coordinator](https://jobright.ai/jobs/info/68a5bccab6a3617d7fa72fcf?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b9d1f86105227d1189814a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 02 |
-| **[Oklahoma State University](https://go.okstate.edu/)** | **[Office Assistant - Talent Search](https://jobright.ai/jobs/info/68ccc3f7d99309000e5a2f57?utm_campaign=Human%20Resources&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
