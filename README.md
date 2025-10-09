@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Staffing Coordinator, Goodwill Staffing](https://jobright.ai/jobs/info/68d30486f0d9af73038de278?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Human Resources Representative](https://jobright.ai/jobs/info/68c19afd4d652f0447758638?utm_campaign=Human%20Resources&utm_source=1103)** | Rosemont, IL | On Site | Oct 02 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Campus Recruiting Coordinator](https://jobright.ai/jobs/info/68a5bccab6a3617d7fa72fcf?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Entry Level Recruiter](https://jobright.ai/jobs/info/68b9d1f86105227d1189814a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
