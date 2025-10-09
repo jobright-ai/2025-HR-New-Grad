@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[HR Coordinator III](https://jobright.ai/jobs/info/68ccdac45954791a1d6fff48?utm_campaign=Human%20Resources&utm_source=1103)** | Winston-Salem, NC | On Site | Oct 09 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c39610b8c22d38284734b1?utm_campaign=Human%20Resources&utm_source=1103)** | Tifton, GA | On Site | Oct 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[Talent Acquisition Assistant](https://jobright.ai/jobs/info/68a826db33dd7158bbcac96c?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Leadership Development Program 2026](https://jobright.ai/jobs/info/68c312495adaee6c9bda6cf6?utm_campaign=Human%20Resources&utm_source=1103)** | Anoka, MN | On Site | Oct 03 |
-| **[Legacy Health](http://www.legacyhealth.org/)** | **[Compensation Specialist - limited duration - remote OR/WA only](https://jobright.ai/jobs/info/68a66b2633dd7158bbc9fe1e?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | Remote | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c2f39563829b0a8a4fe456?utm_campaign=Human%20Resources&utm_source=1103)** | Homestead, FL | On Site | Oct 03 |
 | **[Ellison Medical Institute](https://ellison.usc.edu/)** | **[Talent Program Specialist](https://jobright.ai/jobs/info/68c31f435001f8077bf6156c?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 03 |
