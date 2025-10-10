@@ -122,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Talent Coordinator - Netflix Animation Studios](https://jobright.ai/jobs/info/68cd3a561ad6b16f02896b48?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, CA | On Site | Oct 03 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Unlicensed Team Lead - Mental Health 425](https://jobright.ai/jobs/info/68c37f2d80e77b1fa6fc9b25?utm_campaign=Human%20Resources&utm_source=1103)** | Yuma, AZ | On Site | Oct 03 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Analyst II](https://jobright.ai/jobs/info/68503c7ffb25c9c44c47a87d?utm_campaign=Human%20Resources&utm_source=1103)** | White Plains, NY | On Site | Oct 03 |
-| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c33e625001f8077bf6288a?utm_campaign=Human%20Resources&utm_source=1103)** | Jesup, GA | On Site | Oct 03 |
-| ↳ | **[Human Resources](https://jobright.ai/jobs/info/68c33e915001f8077bf628a4?utm_campaign=Human%20Resources&utm_source=1103)** | Edmond, OK | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
