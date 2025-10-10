@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
 | **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
 | **[Torrance Memorial](https://www.torrancememorial.org)** | **[Case Management Discharge Assistant - FT Days](https://jobright.ai/jobs/info/6892c167f5ee707a15dc807e?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 09 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[HR Coordinator III](https://jobright.ai/jobs/info/68ccdac45954791a1d6fff48?utm_campaign=Human%20Resources&utm_source=1103)** | Winston-Salem, NC | On Site | Oct 09 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
+| **[Moelis & Company](http://moelis.com)** | **[Coordinator, Campus Recruitment, Human Capital Management - New York](https://jobright.ai/jobs/info/68cb6d11ba798c1a501cf777?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 09 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Coordinator, Onboarding / Full-Time / Denver Tech Center](https://jobright.ai/jobs/info/68cfd111fb49c96ca6eabbcb?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Full Time Scheduling Coordinator  (Home Health)](https://jobright.ai/jobs/info/68c9b35395f5211cd2cf31a7?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | On Site | Oct 08 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Associate Account Director, Talent & Learning - Search & Staffing](https://jobright.ai/jobs/info/68ad1b47daf1431824c9a734?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c95e5ef9c6ff7aedf19391?utm_campaign=Human%20Resources&utm_source=1103)** | Warner Robins, GA | On Site | Oct 07 |
+| **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[Admin Assistant](https://jobright.ai/jobs/info/68db16ebe9b48513789b1c94?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
