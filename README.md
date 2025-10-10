@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/6892426bf47efe211395ae5b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 10 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
+| **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68be55b03d31ec76b7e89b62?utm_campaign=Human%20Resources&utm_source=1103)** | Uniondale, NY | On Site | Oct 09 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b3e18c62e63bc7fcec4c?utm_campaign=Human%20Resources&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 09 |
-| ↳ | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 09 |
+| **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
 | **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Seasonal Human Resources Clerk * 2nd Shift](https://jobright.ai/jobs/info/68ae4d92758f2e4ac3012a3a?utm_campaign=Human%20Resources&utm_source=1103)** | Del Rey, CA | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68923df3f5ee707a15dc4055?utm_campaign=Human%20Resources&utm_source=1103)** | Florham Park, NJ | On Site | Oct 09 |
@@ -83,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[Admin Assistant](https://jobright.ai/jobs/info/68db16ebe9b48513789b1c94?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
+| **[Lockton](https://global.lockton.com)** | **[Benefit Communication Insourcing - Temporary Open Enrollment Resource](https://jobright.ai/jobs/info/68ccb9bf128dc347fd928b86?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68ccf41177add66568abc6c7?utm_campaign=Human%20Resources&utm_source=1103)** | Jupiter, FL | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
@@ -117,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c39610b8c22d38284734b1?utm_campaign=Human%20Resources&utm_source=1103)** | Tifton, GA | On Site | Oct 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[Talent Acquisition Assistant](https://jobright.ai/jobs/info/68a826db33dd7158bbcac96c?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Leadership Development Program 2026](https://jobright.ai/jobs/info/68c312495adaee6c9bda6cf6?utm_campaign=Human%20Resources&utm_source=1103)** | Anoka, MN | On Site | Oct 03 |
-| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c2f39563829b0a8a4fe456?utm_campaign=Human%20Resources&utm_source=1103)** | Homestead, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
