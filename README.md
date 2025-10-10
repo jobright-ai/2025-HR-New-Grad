@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/6892426bf47efe211395ae5b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
+| **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68be55b03d31ec76b7e89b62?utm_campaign=Human%20Resources&utm_source=1103)** | Uniondale, NY | On Site | Oct 09 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b3e18c62e63bc7fcec4c?utm_campaign=Human%20Resources&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 09 |
@@ -122,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68ce201ee23def7af55c246a?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Spclst, Finance Leadership Development Program (Hybrid)](https://jobright.ai/jobs/info/68cc5a35128dc347fd923070?utm_campaign=Human%20Resources&utm_source=1103)** | Rahway, NJ | Hybrid | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c39610b8c22d38284734b1?utm_campaign=Human%20Resources&utm_source=1103)** | Tifton, GA | On Site | Oct 04 |
-| **[Charles River Associates](http://www.crai.com)** | **[Talent Acquisition Assistant](https://jobright.ai/jobs/info/68a826db33dd7158bbcac96c?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 03 |
-| **[nVent](https://www.nvent.com/)** | **[Human Resources Leadership Development Program 2026](https://jobright.ai/jobs/info/68c312495adaee6c9bda6cf6?utm_campaign=Human%20Resources&utm_source=1103)** | Anoka, MN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
