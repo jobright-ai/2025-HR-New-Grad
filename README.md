@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[GBMC HealthCare](http://www.gbmc.org/)** | **[Unit Secretary Labor & Delivery FT Nights](https://jobright.ai/jobs/info/68c2b0ee5adaee6c9bda3534?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 05 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Office Assistant 1, SG-06](https://jobright.ai/jobs/info/68c4d137fce86561b9289902?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Housing Works](http://www.housingworks.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/688b189809808a6103e54b32?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68c4c904fce86561b928962b?utm_campaign=Human%20Resources&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
