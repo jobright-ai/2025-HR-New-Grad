@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
+| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68d5570163d77d6f6f3eda62?utm_campaign=Human%20Resources&utm_source=1103)** | Waterford, CT | On Site | Oct 10 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
+| **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Community Supports Case Manager - Developmental Disabilities Services](https://jobright.ai/jobs/info/68b1221ee815524ae11fb486?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, MA | On Site | Oct 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026  (Farmington, CT)](https://jobright.ai/jobs/info/68cc5a6c128dc347fd9230b6?utm_campaign=Human%20Resources&utm_source=1103)** | Farmington, CT | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cfa7a1fb49c96ca6eaa1b2?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | Hybrid | Oct 10 |
 | ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
@@ -80,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead-Licensed or 1000 hours to Licensure - Mental Health 336](https://jobright.ai/jobs/info/68ad06b2d627244576e4aab9?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Ana, CA | On Site | Oct 09 |
 | **[DO & CO AG](http://www.doco.com/en/)** | **[Human Resources - HR Coordinator (Bilingual, Spanish)](https://jobright.ai/jobs/info/68c9bb44a0c52d598ea3a86b?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Unum](http://www.unum.com)** | **[Benefits Specialist Trainee- Life](https://jobright.ai/jobs/info/68cd08e3b2a74e1837ed0db8?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | Hybrid | Oct 08 |
+| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68caf52a9e3a822f5d2409c4?utm_campaign=Human%20Resources&utm_source=1103)** | Glendale, AZ | On Site | Oct 08 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68accbd7daf1431824c9862f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 08 |
@@ -121,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Full Time Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68ce4f39dbd9fb154edddddc?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Event & Development Coordinator](https://jobright.ai/jobs/info/68cd650f1ad6b16f02899257?utm_campaign=Human%20Resources&utm_source=1103)** | Holmdel, NJ | On Site | Oct 04 |
 | **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68ce201ee23def7af55c246a?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Spclst, Finance Leadership Development Program (Hybrid)](https://jobright.ai/jobs/info/68cc5a35128dc347fd923070?utm_campaign=Human%20Resources&utm_source=1103)** | Rahway, NJ | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
