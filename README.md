@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cea9f1dbd9fb154ede1f2e?utm_campaign=Human%20Resources&utm_source=1103)** | Carlsbad, CA | Remote | Oct 11 |
+| **[GLG](http://glginsights.com)** | **[Associate, Client Solutions - Law](https://jobright.ai/jobs/info/68ce10451ad6b16f028a1842?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68ce393d24dd5209002f0c0f?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, KY | On Site | Oct 10 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[Admin Assistant](https://jobright.ai/jobs/info/68db16ebe9b48513789b1c94?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b08dc92d46f6396cae67e9?utm_campaign=Human%20Resources&utm_source=1103)** | Covington, LA | On Site | Oct 07 |
 | **[Lockton](https://global.lockton.com)** | **[Benefit Communication Insourcing - Temporary Open Enrollment Resource](https://jobright.ai/jobs/info/68ccb9bf128dc347fd928b86?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68ccf41177add66568abc6c7?utm_campaign=Human%20Resources&utm_source=1103)** | Jupiter, FL | On Site | Oct 07 |
