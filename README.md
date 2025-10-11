@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026  (Farmington, CT)](https://jobright.ai/jobs/info/68cc5a6c128dc347fd9230b6?utm_campaign=Human%20Resources&utm_source=1103)** | Farmington, CT | On Site | Oct 10 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cfa7a1fb49c96ca6eaa1b2?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | Hybrid | Oct 10 |
+| ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
@@ -120,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Event & Development Coordinator](https://jobright.ai/jobs/info/68cd650f1ad6b16f02899257?utm_campaign=Human%20Resources&utm_source=1103)** | Holmdel, NJ | On Site | Oct 04 |
 | **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68ce201ee23def7af55c246a?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Spclst, Finance Leadership Development Program (Hybrid)](https://jobright.ai/jobs/info/68cc5a35128dc347fd923070?utm_campaign=Human%20Resources&utm_source=1103)** | Rahway, NJ | Hybrid | Oct 04 |
-| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68c39610b8c22d38284734b1?utm_campaign=Human%20Resources&utm_source=1103)** | Tifton, GA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
