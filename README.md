@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cea9f1dbd9fb154ede1f2e?utm_campaign=Human%20Resources&utm_source=1103)** | Carlsbad, CA | Remote | Oct 11 |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68ce393d24dd5209002f0c0f?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, KY | On Site | Oct 10 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68caf52a9e3a822f5d2409c4?utm_campaign=Human%20Resources&utm_source=1103)** | Glendale, AZ | On Site | Oct 08 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0c771ad6b16f028940d7?utm_campaign=Human%20Resources&utm_source=1103)** | Albany, NY | Remote | Oct 08 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68accbd7daf1431824c9862f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 08 |
 | **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0cc01ad6b16f02894195?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
