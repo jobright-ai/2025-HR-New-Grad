@@ -121,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Program Aide, SG-13](https://jobright.ai/jobs/info/68c4d28d31e5763f188e3d88?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cdbfe7e23def7af55beb7e?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
 | **[GBMC HealthCare](http://www.gbmc.org/)** | **[Unit Secretary Labor & Delivery FT Nights](https://jobright.ai/jobs/info/68c2b0ee5adaee6c9bda3534?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 05 |
-| **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Office Assistant 1, SG-06](https://jobright.ai/jobs/info/68c4d137fce86561b9289902?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[Housing Works](http://www.housingworks.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/688b189809808a6103e54b32?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
