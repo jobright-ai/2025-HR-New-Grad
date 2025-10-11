@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68d5570163d77d6f6f3eda62?utm_campaign=Human%20Resources&utm_source=1103)** | Waterford, CT | On Site | Oct 10 |
 | ↳ | **[Human Resources](https://jobright.ai/jobs/info/68ce393d24dd5209002f0c0f?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, KY | On Site | Oct 10 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Coordinator, Campus Recruitment, Human Capital Management - New York](https://jobright.ai/jobs/info/68cb6d11ba798c1a501cf777?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 09 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead-Licensed or 1000 hours to Licensure - Mental Health 336](https://jobright.ai/jobs/info/68ad06b2d627244576e4aab9?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Ana, CA | On Site | Oct 09 |
 | **[DO & CO AG](http://www.doco.com/en/)** | **[Human Resources - HR Coordinator (Bilingual, Spanish)](https://jobright.ai/jobs/info/68c9bb44a0c52d598ea3a86b?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
-| **[Unum](http://www.unum.com)** | **[Benefits Specialist Trainee- Life](https://jobright.ai/jobs/info/68cd08e3b2a74e1837ed0db8?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | Hybrid | Oct 08 |
 | **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68caf52a9e3a822f5d2409c4?utm_campaign=Human%20Resources&utm_source=1103)** | Glendale, AZ | On Site | Oct 08 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
@@ -102,6 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Benefit Communication Insourcing - Temporary Open Enrollment Resource](https://jobright.ai/jobs/info/68ccb9bf128dc347fd928b86?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68ccf41177add66568abc6c7?utm_campaign=Human%20Resources&utm_source=1103)** | Jupiter, FL | On Site | Oct 07 |
+| **[Loretto](https://lorettocny.org/)** | **[Coordinator, Talent Acquisition](https://jobright.ai/jobs/info/68cd221fb2a74e1837ed2fa4?utm_campaign=Human%20Resources&utm_source=1103)** | Syracuse-Auburn Area | On Site | Oct 07 |
+| **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Coordinator (Bilingual)](https://jobright.ai/jobs/info/68c4b23afce86561b92888b7?utm_campaign=Human%20Resources&utm_source=1103)** | Miami, FL | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Unlicensed Team Lead - Mental Health 343](https://jobright.ai/jobs/info/68c8c96ff9c6ff7aedf12996?utm_campaign=Human%20Resources&utm_source=1103)** | Alameda, CA | On Site | Oct 07 |
 | **[GFT](https://www.gftinc.com)** | **[Relocation Specialist](https://jobright.ai/jobs/info/68c8583995f5211cd2ce3cc7?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clara, CA | Hybrid | Oct 07 |
