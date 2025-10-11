@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
-| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68d5570163d77d6f6f3eda62?utm_campaign=Human%20Resources&utm_source=1103)** | Waterford, CT | On Site | Oct 10 |
-| ↳ | **[Human Resources](https://jobright.ai/jobs/info/68ce393d24dd5209002f0c0f?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, KY | On Site | Oct 10 |
+| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68ce393d24dd5209002f0c0f?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, KY | On Site | Oct 10 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Talent Acquisition Sourcing Specialist](https://jobright.ai/jobs/info/68944268f47efe211396b151?utm_campaign=Human%20Resources&utm_source=1103)** | Itasca, IL | Hybrid | Oct 10 |
 | **[SpaceX](https://www.spacex.com)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68773af55cebcd1dd51d1772?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 10 |
