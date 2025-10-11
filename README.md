@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[General Mills](http://www.generalmills.com)** | **[Sourcing Analyst - Campus Recruiting](https://jobright.ai/jobs/info/68cb997befdec76df36bf4ae?utm_campaign=Human%20Resources&utm_source=1103)** | Minneapolis, MN | On Site | Oct 04 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Full Time Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68ce4f39dbd9fb154edddddc?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Event & Development Coordinator](https://jobright.ai/jobs/info/68cd650f1ad6b16f02899257?utm_campaign=Human%20Resources&utm_source=1103)** | Holmdel, NJ | On Site | Oct 04 |
-| **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/68ce201ee23def7af55c246a?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
