@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Claims Adjuster](https://jobright.ai/jobs/info/6894ca3373b3a600fe882242?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 12 |
+| **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Field Representative - Bilingual Preferred (Mandarin Chinese)](https://jobright.ai/jobs/info/6852b6e5aae4c9a142b960f6?utm_campaign=Human%20Resources&utm_source=1103)** | Schiller Park, IL | On Site | Oct 12 |
 | **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Payroll Assistant](https://jobright.ai/jobs/info/68cea073846f0b04af67ba24?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cea9f1dbd9fb154ede1f2e?utm_campaign=Human%20Resources&utm_source=1103)** | Carlsbad, CA | Remote | Oct 11 |
 | **[GLG](http://glginsights.com)** | **[Associate, Client Solutions - Law](https://jobright.ai/jobs/info/68ce10451ad6b16f028a1842?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68aee5d61f0a2a568a05e32c?utm_campaign=Human%20Resources&utm_source=1103)** | Kapaa, HI | On Site | Oct 10 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Ancillary Marketing Benefit Administrator](https://jobright.ai/jobs/info/68cf1e2ddbd9fb154ede52fd?utm_campaign=Human%20Resources&utm_source=1103)** | Elmwood Park, NJ | On Site | Oct 09 |
 | **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68be55b03d31ec76b7e89b62?utm_campaign=Human%20Resources&utm_source=1103)** | Uniondale, NY | On Site | Oct 09 |
