@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Bilingual Sr HR Coordinator](https://jobright.ai/jobs/info/683d1b960e8815d9da9e8897?utm_campaign=Human%20Resources&utm_source=1103)** | Elkton, MD | Hybrid | Oct 05 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Account Representative - January 2026 Career Development Program](https://jobright.ai/jobs/info/688bec1a3a30793eb963ebb1?utm_campaign=Human%20Resources&utm_source=1103)** | Buffalo, NY | On Site | Oct 05 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiter - Entry Level](https://jobright.ai/jobs/info/68d198a717554c2d9eedd28c?utm_campaign=Human%20Resources&utm_source=1103)** | Indianapolis, IN | On Site | Oct 05 |
-| **[Walmart](http://www.walmart.com)** | **[Human Resources](https://jobright.ai/jobs/info/68cc0b1c7342c7623ae5de5c?utm_campaign=Human%20Resources&utm_source=1103)** | Orange, MA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
