@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Claims Adjuster](https://jobright.ai/jobs/info/6894ca3373b3a600fe882242?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 12 |
+| **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Payroll Assistant](https://jobright.ai/jobs/info/68cea073846f0b04af67ba24?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cea9f1dbd9fb154ede1f2e?utm_campaign=Human%20Resources&utm_source=1103)** | Carlsbad, CA | Remote | Oct 11 |
 | **[GLG](http://glginsights.com)** | **[Associate, Client Solutions - Law](https://jobright.ai/jobs/info/68ce10451ad6b16f028a1842?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/687e648e2097a271a8994c8a?utm_campaign=Human%20Resources&utm_source=1103)** | Brooklyn, NY | On Site | Oct 11 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[GBS Voluntary Benefits Experienced Underwriter](https://jobright.ai/jobs/info/68a6b7ab33dd7158bbca23bf?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 06 |
 | **[Via](http://www.ridewithvia.com)** | **[Talent Associate](https://jobright.ai/jobs/info/68cee53b846f0b04af67da48?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 06 |
 | **[Egan Company](https://www.eganco.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68ce33611ad6b16f028a2f04?utm_campaign=Human%20Resources&utm_source=1103)** | Champlin, MN | Hybrid | Oct 06 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Bilingual Sr HR Coordinator](https://jobright.ai/jobs/info/683d1b960e8815d9da9e8897?utm_campaign=Human%20Resources&utm_source=1103)** | Elkton, MD | Hybrid | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
