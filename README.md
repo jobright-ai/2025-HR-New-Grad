@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Claims Adjuster](https://jobright.ai/jobs/info/6894ca3373b3a600fe882242?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 12 |
+| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[10724 - Human Resources Assistant](https://jobright.ai/jobs/info/68798f1eed63844c9449c81c?utm_campaign=Human%20Resources&utm_source=1103)** | Fountain Valley, CA | On Site | Oct 12 |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Field Representative - Bilingual Preferred (Mandarin Chinese)](https://jobright.ai/jobs/info/6852b6e5aae4c9a142b960f6?utm_campaign=Human%20Resources&utm_source=1103)** | Schiller Park, IL | On Site | Oct 12 |
 | **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Payroll Assistant](https://jobright.ai/jobs/info/68cea073846f0b04af67ba24?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cea9f1dbd9fb154ede1f2e?utm_campaign=Human%20Resources&utm_source=1103)** | Carlsbad, CA | Remote | Oct 11 |
