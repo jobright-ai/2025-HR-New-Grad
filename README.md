@@ -135,7 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Benefit Communication Insourcing - Temporary Open Enrollment Resource](https://jobright.ai/jobs/info/68ccb9bf128dc347fd928b86?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68ccf41177add66568abc6c7?utm_campaign=Human%20Resources&utm_source=1103)** | Jupiter, FL | On Site | Oct 07 |
-| **[Loretto](https://lorettocny.org/)** | **[Coordinator, Talent Acquisition](https://jobright.ai/jobs/info/68cd221fb2a74e1837ed2fa4?utm_campaign=Human%20Resources&utm_source=1103)** | Syracuse-Auburn Area | On Site | Oct 07 |
-| **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Coordinator (Bilingual)](https://jobright.ai/jobs/info/68c4b23afce86561b92888b7?utm_campaign=Human%20Resources&utm_source=1103)** | Miami, FL | On Site | Oct 07 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
