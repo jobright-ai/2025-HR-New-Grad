@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Customer Benefit Advisor I (On-Site)](https://jobright.ai/jobs/info/68ca6aa006a34016008c8571?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, SC | On Site | Oct 08 |
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Full Time Scheduling Coordinator  (Home Health)](https://jobright.ai/jobs/info/68c9b35395f5211cd2cf31a7?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | On Site | Oct 08 |
 | **[Axon](https://www.axon.com)** | **[Leadership Development Program](https://jobright.ai/jobs/info/68cce72c77add66568abbb1d?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Hybrid | Oct 07 |
-| **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Partner Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cfe972dbd9fb154edebc4f?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
