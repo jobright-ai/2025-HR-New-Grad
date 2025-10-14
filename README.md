@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[SailPoint](http://www.sailpoint.com)** | **[Recruiter - Technical & GTM](https://jobright.ai/jobs/info/68cb4389ba798c1a501cdb48?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
 | **[Moelis & Company](http://moelis.com)** | **[Coordinator, Campus Recruitment, Human Capital Management - New York](https://jobright.ai/jobs/info/68cb6d11ba798c1a501cf777?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 09 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead-Licensed or 1000 hours to Licensure - Mental Health 336](https://jobright.ai/jobs/info/68ad06b2d627244576e4aab9?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Ana, CA | On Site | Oct 09 |
+| **[FreshDirect](http://freshdirect.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ca1080f61c922772a72693?utm_campaign=Human%20Resources&utm_source=1103)** | Bronx, NY | On Site | Oct 09 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
 | **[DO & CO AG](http://www.doco.com/en/)** | **[Human Resources - HR Coordinator (Bilingual, Spanish)](https://jobright.ai/jobs/info/68c9bb44a0c52d598ea3a86b?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 08 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[Admin Assistant](https://jobright.ai/jobs/info/68db16ebe9b48513789b1c94?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ce5d0d846f0b04af6792db?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
