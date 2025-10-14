@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
+| **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b3019b1ade4306aa63a9c9?utm_campaign=Human%20Resources&utm_source=1103)** | Osceola, WI | On Site | Oct 12 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Claims Adjuster](https://jobright.ai/jobs/info/6894ca3373b3a600fe882242?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 12 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[BRC Benefit Specialist- Glastonbury, CT](https://jobright.ai/jobs/info/685c6d2eb2cf7be790fc0682?utm_campaign=Human%20Resources&utm_source=1103)** | Glastonbury, CT | On Site | Oct 12 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ce5d0d846f0b04af6792db?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Lockton](https://global.lockton.com)** | **[Benefit Communication Insourcing - Temporary Open Enrollment Resource](https://jobright.ai/jobs/info/68ccb9bf128dc347fd928b86?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Oct 07 |
-| **[ByteDance](http://bytedance.com)** | **[HR Generalist Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7eccfb49c96ca6ea0ff8?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
-| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68ccf41177add66568abc6c7?utm_campaign=Human%20Resources&utm_source=1103)** | Jupiter, FL | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
