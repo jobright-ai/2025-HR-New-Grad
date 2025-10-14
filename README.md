@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gartner](http://www.gartner.com)** | **[Variable Compensation Specialist](https://jobright.ai/jobs/info/68d1e0a8a54edb3bf3e1703f?utm_campaign=Human%20Resources&utm_source=1103)** | Irving, TX | Hybrid | Oct 14 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
@@ -131,7 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Full Time Scheduling Coordinator  (Home Health)](https://jobright.ai/jobs/info/68c9b35395f5211cd2cf31a7?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | On Site | Oct 08 |
 | **[Axon](https://www.axon.com)** | **[Leadership Development Program](https://jobright.ai/jobs/info/68cce72c77add66568abbb1d?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Hybrid | Oct 07 |
 | **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Partner Graduate (Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cfe972dbd9fb154edebc4f?utm_campaign=Human%20Resources&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
-| **[Merlin Entertainments](https://www.merlinentertainments.biz)** | **[Admin Assistant](https://jobright.ai/jobs/info/68db16ebe9b48513789b1c94?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Oct 07 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefit Coordinator](https://jobright.ai/jobs/info/68c8ca81983e6768bc5515cd?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
