@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d351c917554c2d9eeefc9b?utm_campaign=Human%20Resources&utm_source=1103)** | Evanston, IL | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35d8a8c62e63bc7fe025c?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Oct 15 |
+| **[Spring Health](https://www.springhealth.com)** | **[Onsite Resource Coordinator (Kailua Kona, HI)](https://jobright.ai/jobs/info/687e823ddb19f31cf0d6ac1e?utm_campaign=Human%20Resources&utm_source=1103)** | Kailua-Kona, HI | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
