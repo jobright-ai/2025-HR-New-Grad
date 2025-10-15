@@ -132,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 08 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0c771ad6b16f028940d7?utm_campaign=Human%20Resources&utm_source=1103)** | Albany, NY | Remote | Oct 08 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[People Advisor](https://jobright.ai/jobs/info/68cd1996e23def7af55b5418?utm_campaign=Human%20Resources&utm_source=1103)** | Chesapeake, VA | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
