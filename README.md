@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Payroll & Benefits Specialist](https://jobright.ai/jobs/info/68cee096846f0b04af67d888?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 14 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026  (Farmington, CT)](https://jobright.ai/jobs/info/68cc5a6c128dc347fd9230b6?utm_campaign=Human%20Resources&utm_source=1103)** | Farmington, CT | On Site | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68aee5d61f0a2a568a05e32c?utm_campaign=Human%20Resources&utm_source=1103)** | Kapaa, HI | On Site | Oct 10 |
+| **[Experior Financial Group](https://experiorfinancial.com/)** | **[Bilingual Talent Acquisition and Recruitment Assistant (English/ Spanish)](https://jobright.ai/jobs/info/68d2cd178c62e63bc7fda239?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Hybrid | Oct 10 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Department Administrator](https://jobright.ai/jobs/info/68cafcb99e3a822f5d240ddf?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, WA | On Site | Oct 09 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68cb276cba798c1a501cc674?utm_campaign=Human%20Resources&utm_source=1103)** | Toledo, OH | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Ancillary Marketing Benefit Administrator](https://jobright.ai/jobs/info/68cf1e2ddbd9fb154ede52fd?utm_campaign=Human%20Resources&utm_source=1103)** | Elmwood Park, NJ | On Site | Oct 09 |
@@ -128,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
 | **[DO & CO AG](http://www.doco.com/en/)** | **[Human Resources - HR Coordinator (Bilingual, Spanish)](https://jobright.ai/jobs/info/68c9bb44a0c52d598ea3a86b?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 08 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/68ca51675f9f0336447db91b?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
-| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
