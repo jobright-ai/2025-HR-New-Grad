@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FNS, Inc.](https://fnsusa.com)** | **[Payroll & Benefits Specialist](https://jobright.ai/jobs/info/68cee096846f0b04af67d888?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 14 |
 | **[Gartner](http://www.gartner.com)** | **[Variable Compensation Specialist](https://jobright.ai/jobs/info/68d1e0a8a54edb3bf3e1703f?utm_campaign=Human%20Resources&utm_source=1103)** | Irving, TX | Hybrid | Oct 14 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0c771ad6b16f028940d7?utm_campaign=Human%20Resources&utm_source=1103)** | Albany, NY | Remote | Oct 08 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[People Advisor](https://jobright.ai/jobs/info/68cd1996e23def7af55b5418?utm_campaign=Human%20Resources&utm_source=1103)** | Chesapeake, VA | Hybrid | Oct 08 |
-| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68accbd7daf1431824c9862f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 08 |
 | **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0cc01ad6b16f02894195?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Office/HR Coordinator](https://jobright.ai/jobs/info/68cd0cfeb2a74e1837ed1860?utm_campaign=Human%20Resources&utm_source=1103)** | Claremont, CA | On Site | Oct 08 |
