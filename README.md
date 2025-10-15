@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Payroll & Benefits Specialist](https://jobright.ai/jobs/info/68cee096846f0b04af67d888?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 14 |
+| **[Community Options, Inc.](https://www.comop.org/)** | **[Employment Manager (Youth Services](https://jobright.ai/jobs/info/68d1bd4a17554c2d9eedf2b2?utm_campaign=Human%20Resources&utm_source=1103)** | Binghamton, NY | On Site | Oct 14 |
 | **[Gartner](http://www.gartner.com)** | **[Variable Compensation Specialist](https://jobright.ai/jobs/info/68d1e0a8a54edb3bf3e1703f?utm_campaign=Human%20Resources&utm_source=1103)** | Irving, TX | Hybrid | Oct 14 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
+| **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Vagaro](https://sales.vagaro.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c24abd63b706703e1137f6?utm_campaign=Human%20Resources&utm_source=1103)** | Pleasanton, CA | On Site | Oct 10 |
 | **[Simpson Thacher & Bartlett LLP](http://www.simpsonthacher.com)** | **[Assistant, Legal Recruiting & Associate Life](https://jobright.ai/jobs/info/68bb1cbe5f3832749186c309?utm_campaign=Human%20Resources&utm_source=1103)** | LA Metro Area | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc6b42128dc347fd924901?utm_campaign=Human%20Resources&utm_source=1103)** | Wellesley, MA | Hybrid | Oct 10 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68c64f63db52c07d28847144?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
 | **[Simpson Thacher & Bartlett LLP](http://www.simpsonthacher.com)** | **[Legal Recruiting & Associate Life Assistant](https://jobright.ai/jobs/info/68914855f5ee707a15dbd7c1?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Hybrid | Oct 10 |
 | **[ITT Inc.](http://www.itt.com)** | **[HR Analyst – Employee Lifecycle & Talent Development Support](https://jobright.ai/jobs/info/68cce71577add66568abbaee?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clarita, CA | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc6cd3128dc347fd924bfb?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | Hybrid | Oct 10 |
@@ -100,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc8824128dc347fd9262fc?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | Hybrid | Oct 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026  (Farmington, CT)](https://jobright.ai/jobs/info/68cc5a6c128dc347fd9230b6?utm_campaign=Human%20Resources&utm_source=1103)** | Farmington, CT | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cfa7a1fb49c96ca6eaa1b2?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | Hybrid | Oct 10 |
-| ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/68cc7303128dc347fd925073?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | Hybrid | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68aee5d61f0a2a568a05e32c?utm_campaign=Human%20Resources&utm_source=1103)** | Kapaa, HI | On Site | Oct 10 |
+| **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Department Administrator](https://jobright.ai/jobs/info/68cafcb99e3a822f5d240ddf?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, WA | On Site | Oct 09 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68cb276cba798c1a501cc674?utm_campaign=Human%20Resources&utm_source=1103)** | Toledo, OH | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Ancillary Marketing Benefit Administrator](https://jobright.ai/jobs/info/68cf1e2ddbd9fb154ede52fd?utm_campaign=Human%20Resources&utm_source=1103)** | Elmwood Park, NJ | On Site | Oct 09 |
 | **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
@@ -130,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Analyst I (Remote)](https://jobright.ai/jobs/info/68cd0c771ad6b16f028940d7?utm_campaign=Human%20Resources&utm_source=1103)** | Albany, NY | Remote | Oct 08 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[People Advisor](https://jobright.ai/jobs/info/68cd1996e23def7af55b5418?utm_campaign=Human%20Resources&utm_source=1103)** | Chesapeake, VA | Hybrid | Oct 08 |
-| **[Infinity Home Services](https://www.infinityhomeservices.com)** | **[Payroll Specialist](https://jobright.ai/jobs/info/689b9bae79a9f96662531e39?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Milwaukee | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
