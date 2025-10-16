@@ -58,16 +58,21 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
+| **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35c358c62e63bc7fe0000?utm_campaign=Human%20Resources&utm_source=1103)** | Springfield, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d358f217554c2d9eef007a?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a76f0d9af73038e14bf?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MO | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359edf0d9af73038e1416?utm_campaign=Human%20Resources&utm_source=1103)** | Arlington Heights, IL | On Site | Oct 15 |
 | **[Princeton University](http://www.princeton.edu)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d2ebdf17554c2d9eeeb878?utm_campaign=Human%20Resources&utm_source=1103)** | Princeton, NJ | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a40f0d9af73038e1482?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, OH | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353128c62e63bc7fdfc5b?utm_campaign=Human%20Resources&utm_source=1103)** | Peoria, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d351c917554c2d9eeefc9b?utm_campaign=Human%20Resources&utm_source=1103)** | Evanston, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35d8a8c62e63bc7fe025c?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35b1017554c2d9eef03f2?utm_campaign=Human%20Resources&utm_source=1103)** | Jefferson City, MO | On Site | Oct 15 |
 | **[Spring Health](https://www.springhealth.com)** | **[Onsite Resource Coordinator (Kailua Kona, HI)](https://jobright.ai/jobs/info/687e823ddb19f31cf0d6ac1e?utm_campaign=Human%20Resources&utm_source=1103)** | Kailua-Kona, HI | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
@@ -124,8 +129,4 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68be55b03d31ec76b7e89b62?utm_campaign=Human%20Resources&utm_source=1103)** | Uniondale, NY | On Site | Oct 09 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b3e18c62e63bc7fcec4c?utm_campaign=Human%20Resources&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 09 |
 | ↳ | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
-| **[Arc Broward](https://www.arcbroward.com/)** | **[Employment Specialist (Job Coach)](https://jobright.ai/jobs/info/68c3235c5001f8077bf61760?utm_campaign=Human%20Resources&utm_source=1103)** | Oakland Park, FL | On Site | Oct 09 |
-| **[POM Wonderful](http://www.pomwonderful.com)** | **[Seasonal Human Resources Clerk * 2nd Shift](https://jobright.ai/jobs/info/68ae4d92758f2e4ac3012a3a?utm_campaign=Human%20Resources&utm_source=1103)** | Del Rey, CA | On Site | Oct 09 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68923df3f5ee707a15dc4055?utm_campaign=Human%20Resources&utm_source=1103)** | Florham Park, NJ | On Site | Oct 09 |
-| ↳ | **[Employee Benefits Account Representative - January 2026 Career Development Program](https://jobright.ai/jobs/info/68913405f47efe21139538f3?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
