@@ -59,13 +59,16 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35c358c62e63bc7fe0000?utm_campaign=Human%20Resources&utm_source=1103)** | Springfield, MO | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a9717554c2d9eef0320?utm_campaign=Human%20Resources&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35c358c62e63bc7fe0000?utm_campaign=Human%20Resources&utm_source=1103)** | Springfield, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d358f217554c2d9eef007a?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a76f0d9af73038e14bf?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359edf0d9af73038e1416?utm_campaign=Human%20Resources&utm_source=1103)** | Arlington Heights, IL | On Site | Oct 15 |
 | **[Princeton University](http://www.princeton.edu)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d2ebdf17554c2d9eeeb878?utm_campaign=Human%20Resources&utm_source=1103)** | Princeton, NJ | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3547af0d9af73038e11fb?utm_campaign=Human%20Resources&utm_source=1103)** | Canton, OH | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a40f0d9af73038e1482?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, OH | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d34d5517554c2d9eeefabb?utm_campaign=Human%20Resources&utm_source=1103)** | Lees Summit, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353128c62e63bc7fdfc5b?utm_campaign=Human%20Resources&utm_source=1103)** | Peoria, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d351c917554c2d9eeefc9b?utm_campaign=Human%20Resources&utm_source=1103)** | Evanston, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35d8a8c62e63bc7fe025c?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Oct 15 |
@@ -123,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Experior Financial Group](https://experiorfinancial.com/)** | **[Bilingual Talent Acquisition and Recruitment Assistant (English/ Spanish)](https://jobright.ai/jobs/info/68d2cd178c62e63bc7fda239?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Hybrid | Oct 10 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Department Administrator](https://jobright.ai/jobs/info/68cafcb99e3a822f5d240ddf?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, WA | On Site | Oct 09 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68cb276cba798c1a501cc674?utm_campaign=Human%20Resources&utm_source=1103)** | Toledo, OH | On Site | Oct 09 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Ancillary Marketing Benefit Administrator](https://jobright.ai/jobs/info/68cf1e2ddbd9fb154ede52fd?utm_campaign=Human%20Resources&utm_source=1103)** | Elmwood Park, NJ | On Site | Oct 09 |
-| **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
-| **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
