@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acrisure](http://acrisure.com)** | **[Associate Recruiter](https://jobright.ai/jobs/info/68b77a18f4e41a61efd993a2?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 16 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a9717554c2d9eef0320?utm_campaign=Human%20Resources&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
+| **[Kearney](https://www.kearney.com/)** | **[Experienced Hire Recruiting Assistant](https://jobright.ai/jobs/info/68cd3280b2a74e1837ed3c9f?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 13 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
