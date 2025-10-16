@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Acrisure](http://acrisure.com)** | **[Associate Recruiter](https://jobright.ai/jobs/info/68b77a18f4e41a61efd993a2?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 16 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
+| **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
@@ -128,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68aee5d61f0a2a568a05e32c?utm_campaign=Human%20Resources&utm_source=1103)** | Kapaa, HI | On Site | Oct 10 |
 | **[Experior Financial Group](https://experiorfinancial.com/)** | **[Bilingual Talent Acquisition and Recruitment Assistant (English/ Spanish)](https://jobright.ai/jobs/info/68d2cd178c62e63bc7fda239?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Hybrid | Oct 10 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Department Administrator](https://jobright.ai/jobs/info/68cafcb99e3a822f5d240ddf?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, WA | On Site | Oct 09 |
-| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Public Benefit Specialist](https://jobright.ai/jobs/info/68cb276cba798c1a501cc674?utm_campaign=Human%20Resources&utm_source=1103)** | Toledo, OH | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
