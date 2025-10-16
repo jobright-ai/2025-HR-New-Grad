@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d358f217554c2d9eef007a?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | On Site | Oct 15 |
-| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35c358c62e63bc7fe0000?utm_campaign=Human%20Resources&utm_source=1103)** | Springfield, MO | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d358f217554c2d9eef007a?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | On Site | Oct 15 |
+| **[Princeton University](http://www.princeton.edu)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d2ebdf17554c2d9eeeb878?utm_campaign=Human%20Resources&utm_source=1103)** | Princeton, NJ | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d351c917554c2d9eeefc9b?utm_campaign=Human%20Resources&utm_source=1103)** | Evanston, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35d8a8c62e63bc7fe025c?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35b1017554c2d9eef03f2?utm_campaign=Human%20Resources&utm_source=1103)** | Jefferson City, MO | On Site | Oct 15 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68773af55cebcd1dd51d1772?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 10 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Community Supports Case Manager - Developmental Disabilities Services](https://jobright.ai/jobs/info/68b1221ee815524ae11fb486?utm_campaign=Human%20Resources&utm_source=1103)** | Lexington, MA | On Site | Oct 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Group Benefit Solutions - Underwriting LAUNCH Program June 2026  (Farmington, CT)](https://jobright.ai/jobs/info/68cc5a6c128dc347fd9230b6?utm_campaign=Human%20Resources&utm_source=1103)** | Farmington, CT | On Site | Oct 10 |
-| **[Samsara](http://www.samsara.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ccb8f6128dc347fd9289e1?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/68aee5d61f0a2a568a05e32c?utm_campaign=Human%20Resources&utm_source=1103)** | Kapaa, HI | On Site | Oct 10 |
 | **[Experior Financial Group](https://experiorfinancial.com/)** | **[Bilingual Talent Acquisition and Recruitment Assistant (English/ Spanish)](https://jobright.ai/jobs/info/68d2cd178c62e63bc7fda239?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Hybrid | Oct 10 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Department Administrator](https://jobright.ai/jobs/info/68cafcb99e3a822f5d240ddf?utm_campaign=Human%20Resources&utm_source=1103)** | Burbank, WA | On Site | Oct 09 |
@@ -129,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Associate](https://jobright.ai/jobs/info/68aee7841f0a2a568a05e414?utm_campaign=Human%20Resources&utm_source=1103)** | Kapolei, HI | On Site | Oct 09 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68cb43daba798c1a501cdbd3?utm_campaign=Human%20Resources&utm_source=1103)** | Allentown, PA | On Site | Oct 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Human Resources](https://jobright.ai/jobs/info/68cd6f151ad6b16f0289988d?utm_campaign=Human%20Resources&utm_source=1103)** | Universal City, CA | On Site | Oct 09 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead-Licensed or 1000 hours to Licensure - Mental Health 336](https://jobright.ai/jobs/info/68ad06b2d627244576e4aab9?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Ana, CA | On Site | Oct 09 |
-| **[FreshDirect](http://freshdirect.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ca1080f61c922772a72693?utm_campaign=Human%20Resources&utm_source=1103)** | Bronx, NY | On Site | Oct 09 |
-| **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
