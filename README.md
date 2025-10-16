@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Acrisure](http://acrisure.com)** | **[Associate Recruiter](https://jobright.ai/jobs/info/68b77a18f4e41a61efd993a2?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 16 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a9717554c2d9eef0320?utm_campaign=Human%20Resources&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
