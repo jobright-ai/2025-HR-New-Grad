@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 16 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 16 |
 | **[Acrisure](http://acrisure.com)** | **[Associate Recruiter](https://jobright.ai/jobs/info/68b77a18f4e41a61efd993a2?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 16 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35c428c62e63bc7fe001a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 15 |
+| **[Maverik, Inc.](https://maverik.com/)** | **[Workforce Management Systems Specialist](https://jobright.ai/jobs/info/68d34eecf0d9af73038e0f95?utm_campaign=Human%20Resources&utm_source=1103)** | Salt Lake City, UT | Hybrid | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d353a18c62e63bc7fdfcea?utm_campaign=Human%20Resources&utm_source=1103)** | Cape Girardeau, MO | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35c428c62e63bc7fe001a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
 | **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
@@ -83,12 +86,12 @@ For a complete list, click the following sortable link below:
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
+| **[Summa Health](http://www.summahealth.org/)** | **[Systems Analyst - HRIS](https://jobright.ai/jobs/info/68cdb89a1ad6b16f0289e3a0?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Oct 14 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Payroll & Benefits Specialist](https://jobright.ai/jobs/info/68cee096846f0b04af67d888?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 14 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Employment Manager (Youth Services](https://jobright.ai/jobs/info/68d1bd4a17554c2d9eedf2b2?utm_campaign=Human%20Resources&utm_source=1103)** | Binghamton, NY | On Site | Oct 14 |
 | **[Gartner](http://www.gartner.com)** | **[Variable Compensation Specialist](https://jobright.ai/jobs/info/68d1e0a8a54edb3bf3e1703f?utm_campaign=Human%20Resources&utm_source=1103)** | Irving, TX | Hybrid | Oct 14 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Talent Advisor](https://jobright.ai/jobs/info/68cffb41846f0b04af686a48?utm_campaign=Human%20Resources&utm_source=1103)** | Greenbelt, MD | Hybrid | Oct 13 |
