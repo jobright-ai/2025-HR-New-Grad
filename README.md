@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 16 |
 | **[Acrisure](http://acrisure.com)** | **[Associate Recruiter](https://jobright.ai/jobs/info/68b77a18f4e41a61efd993a2?utm_campaign=Human%20Resources&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 16 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35c428c62e63bc7fe001a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
 | **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 14 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Talent Advisor](https://jobright.ai/jobs/info/68cffb41846f0b04af686a48?utm_campaign=Human%20Resources&utm_source=1103)** | Greenbelt, MD | Hybrid | Oct 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Experienced Hire Recruiting Assistant](https://jobright.ai/jobs/info/68cd3280b2a74e1837ed3c9f?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 13 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
