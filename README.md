@@ -133,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Carisk Partners](https://www.cariskpartners.com/)** | **[Bilingual Worker's Compensation Care Coordinator](https://jobright.ai/jobs/info/68db4463e19b9e63ba209d1f?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[Sotheby's](http://www.sothebys.com)** | **[Coordinator, Talent Programming and Engagement](https://jobright.ai/jobs/info/68ccabb97342c7623ae67f82?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Benefits Associate II](https://jobright.ai/jobs/info/68ccd14cb274cd205ab4f80e?utm_campaign=Human%20Resources&utm_source=1103)** | McLean, VA | On Site | Oct 10 |
-| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Bilingual HR Assistant](https://jobright.ai/jobs/info/68b0ee36b47fb001d689688a?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | On Site | Oct 10 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Talent Acquisition Sourcing Specialist](https://jobright.ai/jobs/info/68944268f47efe211396b151?utm_campaign=Human%20Resources&utm_source=1103)** | Itasca, IL | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
