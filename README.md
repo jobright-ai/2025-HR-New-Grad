@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[Executive Compensation Senior Consultant - Associate Director - fixed term](https://jobright.ai/jobs/info/689d1f5983d13d1f5b6ad55c?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/686479659df0244f43f7518b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 17 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 16 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 16 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2f8f21ade4306aa63a85b?utm_campaign=Human%20Resources&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 12 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Oct 12 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Safety & Operations Coordinator](https://jobright.ai/jobs/info/685efc353adc1330d1c013e5?utm_campaign=Human%20Resources&utm_source=1103)** | Old Lyme, CT | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b3019b1ade4306aa63a9c9?utm_campaign=Human%20Resources&utm_source=1103)** | Osceola, WI | On Site | Oct 12 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[Claims Adjuster](https://jobright.ai/jobs/info/6894ca3373b3a600fe882242?utm_campaign=Human%20Resources&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 12 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Staffing Coordinator / Part-Time / University Southern California Athletics](https://jobright.ai/jobs/info/68b392f1f4e41a61efd893fd?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b301af1ade4306aa63a9d2?utm_campaign=Human%20Resources&utm_source=1103)** | Huntsville, AL | On Site | Oct 12 |
 | ↳ | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68cd658c1ad6b16f028992f0?utm_campaign=Human%20Resources&utm_source=1103)** | Wyoming, MN | On Site | Oct 12 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[10724 - Human Resources Assistant](https://jobright.ai/jobs/info/68798f1eed63844c9449c81c?utm_campaign=Human%20Resources&utm_source=1103)** | Fountain Valley, CA | On Site | Oct 12 |
-| **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Field Representative - Bilingual Preferred (Mandarin Chinese)](https://jobright.ai/jobs/info/6852b6e5aae4c9a142b960f6?utm_campaign=Human%20Resources&utm_source=1103)** | Schiller Park, IL | On Site | Oct 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cc6d07128dc347fd924c83?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, DE | On Site | Oct 12 |
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cec14fdbd9fb154ede284f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 12 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cde4f7e23def7af55c00a1?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | Remote | Oct 11 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Cadent](http://www.cadent.tv)** | **[HR Coordinator](https://jobright.ai/jobs/info/68cf72a1846f0b04af6821b2?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68cc0c43128dc347fd91e1cb?utm_campaign=Human%20Resources&utm_source=1103)** | Fontana, CA | On Site | Oct 11 |
-| **[Vagaro](https://sales.vagaro.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c24abd63b706703e1137f6?utm_campaign=Human%20Resources&utm_source=1103)** | Pleasanton, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
