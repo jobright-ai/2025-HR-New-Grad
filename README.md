@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/686479659df0244f43f7518b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 17 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 16 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 16 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d40fef17554c2d9eef5a31?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, NJ | On Site | Oct 16 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
+| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d34e16f0d9af73038e0efa?utm_campaign=Human%20Resources&utm_source=1103)** | Elyria, OH | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a9717554c2d9eef0320?utm_campaign=Human%20Resources&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35c358c62e63bc7fe0000?utm_campaign=Human%20Resources&utm_source=1103)** | Springfield, MO | On Site | Oct 15 |
@@ -130,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Cadent](http://www.cadent.tv)** | **[HR Coordinator](https://jobright.ai/jobs/info/68cf72a1846f0b04af6821b2?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68cc0c43128dc347fd91e1cb?utm_campaign=Human%20Resources&utm_source=1103)** | Fontana, CA | On Site | Oct 11 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c24abd63b706703e1137f6?utm_campaign=Human%20Resources&utm_source=1103)** | Pleasanton, CA | On Site | Oct 10 |
-| **[Simpson Thacher & Bartlett LLP](http://www.simpsonthacher.com)** | **[Assistant, Legal Recruiting & Associate Life](https://jobright.ai/jobs/info/68bb1cbe5f3832749186c309?utm_campaign=Human%20Resources&utm_source=1103)** | LA Metro Area | On Site | Oct 10 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68c64f63db52c07d28847144?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
