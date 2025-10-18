@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EY](http://www.ey.com)** | **[Executive Compensation Senior Consultant - Associate Director - fixed term](https://jobright.ai/jobs/info/689d1f5983d13d1f5b6ad55c?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/686479659df0244f43f7518b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 17 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Manager, Employee Experience, Revenue Operations (ROPS)](https://jobright.ai/jobs/info/68d4395c17554c2d9eef71cd?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 16 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/68c8fde895f5211cd2cece6a?utm_campaign=Human%20Resources&utm_source=1103)** | Schuyler, NE | On Site | Oct 16 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 16 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d40fef17554c2d9eef5a31?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, NJ | On Site | Oct 16 |
