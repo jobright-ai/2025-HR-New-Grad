@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[10724 - Human Resources Assistant](https://jobright.ai/jobs/info/68798f1eed63844c9449c81c?utm_campaign=Human%20Resources&utm_source=1103)** | Fountain Valley, CA | On Site | Oct 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cc6d07128dc347fd924c83?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, DE | On Site | Oct 12 |
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cec14fdbd9fb154ede284f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 12 |
-| **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cde4f7e23def7af55c00a1?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | Remote | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
