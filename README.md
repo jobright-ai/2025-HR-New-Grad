@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cebd73846f0b04af67c91c?utm_campaign=Human%20Resources&utm_source=1103)** | Plano, TX | On Site | Oct 11 |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Cadent](http://www.cadent.tv)** | **[HR Coordinator](https://jobright.ai/jobs/info/68cf72a1846f0b04af6821b2?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68cc0c43128dc347fd91e1cb?utm_campaign=Human%20Resources&utm_source=1103)** | Fontana, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
