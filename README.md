@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AvePoint](http://www.avepoint.com)** | **[Recruitment Marketing and Sourcing Specialist](https://jobright.ai/jobs/info/68bb39525f3832749186d6f3?utm_campaign=Human%20Resources&utm_source=1103)** | Jersey City, NJ | On Site | Oct 18 |
 | **[EY](http://www.ey.com)** | **[Executive Compensation Senior Consultant - Associate Director - fixed term](https://jobright.ai/jobs/info/689d1f5983d13d1f5b6ad55c?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/686479659df0244f43f7518b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 17 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Manager, Employee Experience, Revenue Operations (ROPS)](https://jobright.ai/jobs/info/68d4395c17554c2d9eef71cd?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | On Site | Oct 16 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
+| **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68bf7478702aa35207aa678a?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, KY | On Site | Oct 14 |
 | **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Talent Acquisition Representative (Temporary)](https://jobright.ai/jobs/info/68d18f43cece431f8b58542a?utm_campaign=Human%20Resources&utm_source=1103)** | Tustin, CA | Hybrid | Oct 14 |
 | **[Summa Health](http://www.summahealth.org/)** | **[Systems Analyst - HRIS](https://jobright.ai/jobs/info/68cdb89a1ad6b16f0289e3a0?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Oct 14 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
@@ -112,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fddb1ade4306aa63a967?utm_campaign=Human%20Resources&utm_source=1103)** | Roseau, MN | On Site | Oct 12 |
 | ↳ | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2f8f21ade4306aa63a85b?utm_campaign=Human%20Resources&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 12 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Oct 12 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Safety & Operations Coordinator](https://jobright.ai/jobs/info/685efc353adc1330d1c013e5?utm_campaign=Human%20Resources&utm_source=1103)** | Old Lyme, CT | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
