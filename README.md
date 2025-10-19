@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fddb1ade4306aa63a967?utm_campaign=Human%20Resources&utm_source=1103)** | Roseau, MN | On Site | Oct 12 |
-| ↳ | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2f8f21ade4306aa63a85b?utm_campaign=Human%20Resources&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
