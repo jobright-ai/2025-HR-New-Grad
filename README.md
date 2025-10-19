@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf7d5daf1431824c9f584?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fddb1ade4306aa63a967?utm_campaign=Human%20Resources&utm_source=1103)** | Roseau, MN | On Site | Oct 12 |
 | ↳ | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2f8f21ade4306aa63a85b?utm_campaign=Human%20Resources&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 12 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
