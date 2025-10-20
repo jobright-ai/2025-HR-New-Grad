@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Talent Advisor](https://jobright.ai/jobs/info/68cffb41846f0b04af686a48?utm_campaign=Human%20Resources&utm_source=1103)** | Greenbelt, MD | Hybrid | Oct 13 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Coordinator (Bilingual)](https://jobright.ai/jobs/info/68c4b23afce86561b92888b7?utm_campaign=Human%20Resources&utm_source=1103)** | Miami, FL | On Site | Oct 13 |
-| **[Kearney](https://www.kearney.com/)** | **[Experienced Hire Recruiting Assistant](https://jobright.ai/jobs/info/68cd3280b2a74e1837ed3c9f?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
