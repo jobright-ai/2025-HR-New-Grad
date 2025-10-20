@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35c428c62e63bc7fe001a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
 | **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a6c17554c2d9eef02db?utm_campaign=Human%20Resources&utm_source=1103)** | University City, MO | On Site | Oct 15 |
 | **[HUB International](https://www.hubinternational.com)** | **[Account Representative, Employee Benefits](https://jobright.ai/jobs/info/68b780211ade4306aa64b805?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d34e16f0d9af73038e0efa?utm_campaign=Human%20Resources&utm_source=1103)** | Elyria, OH | On Site | Oct 15 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Employment Specialist](https://jobright.ai/jobs/info/6880d95e29ad6b2744adc865?utm_campaign=Human%20Resources&utm_source=1103)** | Twin Cities Area | On Site | Oct 15 |
