@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 | **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Talent Advisor](https://jobright.ai/jobs/info/68cffb41846f0b04af686a48?utm_campaign=Human%20Resources&utm_source=1103)** | Greenbelt, MD | Hybrid | Oct 13 |
-| **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Coordinator (Bilingual)](https://jobright.ai/jobs/info/68c4b23afce86561b92888b7?utm_campaign=Human%20Resources&utm_source=1103)** | Miami, FL | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
