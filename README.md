@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[HR Coordinator (Bilingual)](https://jobright.ai/jobs/info/68c4b23afce86561b92888b7?utm_campaign=Human%20Resources&utm_source=1103)** | Miami, FL | On Site | Oct 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Experienced Hire Recruiting Assistant](https://jobright.ai/jobs/info/68cd3280b2a74e1837ed3c9f?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 13 |
 | **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Operations in Columbia, MD](https://jobright.ai/jobs/info/68d05337846f0b04af688802?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MD | Remote | Oct 13 |
-| **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68adf862d627244576e50454?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
