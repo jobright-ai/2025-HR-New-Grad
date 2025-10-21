@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Talent Acquisition Representative (Temporary)](https://jobright.ai/jobs/info/68d18f43cece431f8b58542a?utm_campaign=Human%20Resources&utm_source=1103)** | Tustin, CA | Hybrid | Oct 14 |
 | **[Summa Health](http://www.summahealth.org/)** | **[Systems Analyst - HRIS](https://jobright.ai/jobs/info/68cdb89a1ad6b16f0289e3a0?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Oct 14 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
-| **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
