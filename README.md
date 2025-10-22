@@ -93,6 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35b1017554c2d9eef03f2?utm_campaign=Human%20Resources&utm_source=1103)** | Jefferson City, MO | On Site | Oct 15 |
 | **[Spring Health](https://www.springhealth.com)** | **[Onsite Resource Coordinator (Kailua Kona, HI)](https://jobright.ai/jobs/info/687e823ddb19f31cf0d6ac1e?utm_campaign=Human%20Resources&utm_source=1103)** | Kailua-Kona, HI | On Site | Oct 15 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
-| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
