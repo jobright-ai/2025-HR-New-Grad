@@ -145,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Ancillary Marketing Benefit Administrator](https://jobright.ai/jobs/info/68cf1e2ddbd9fb154ede52fd?utm_campaign=Human%20Resources&utm_source=1103)** | Elmwood Park, NJ | On Site | Oct 09 |
 | **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/68be55b03d31ec76b7e89b62?utm_campaign=Human%20Resources&utm_source=1103)** | Uniondale, NY | On Site | Oct 09 |
-| **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b3e18c62e63bc7fcec4c?utm_campaign=Human%20Resources&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 09 |
-| ↳ | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
