@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Access Services](https://www.accessservices.org)** | **[Home and Community Supports Assistant Supervisor](https://jobright.ai/jobs/info/68bb08118043103d4f2250aa?utm_campaign=Human%20Resources&utm_source=1103)** | Fort Washington, PA | On Site | Oct 22 |
 | **[AvePoint](http://www.avepoint.com)** | **[Recruitment Marketing and Sourcing Specialist](https://jobright.ai/jobs/info/68bb39525f3832749186d6f3?utm_campaign=Human%20Resources&utm_source=1103)** | Jersey City, NJ | On Site | Oct 18 |
 | **[EY](http://www.ey.com)** | **[Executive Compensation Senior Consultant - Associate Director - fixed term](https://jobright.ai/jobs/info/689d1f5983d13d1f5b6ad55c?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Oct 17 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/686479659df0244f43f7518b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 17 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead-Licensed or 1000 hours to Licensure - Mental Health 336](https://jobright.ai/jobs/info/68ad06b2d627244576e4aab9?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Ana, CA | On Site | Oct 09 |
 | **[FreshDirect](http://freshdirect.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68ca1080f61c922772a72693?utm_campaign=Human%20Resources&utm_source=1103)** | Bronx, NY | On Site | Oct 09 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
-| **[DO & CO AG](http://www.doco.com/en/)** | **[Human Resources - HR Coordinator (Bilingual, Spanish)](https://jobright.ai/jobs/info/68c9bb44a0c52d598ea3a86b?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
