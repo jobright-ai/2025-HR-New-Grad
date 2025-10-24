@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68c64f63db52c07d28847144?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
 | **[Simpson Thacher & Bartlett LLP](http://www.simpsonthacher.com)** | **[Legal Recruiting & Associate Life Assistant](https://jobright.ai/jobs/info/68914855f5ee707a15dbd7c1?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Hybrid | Oct 10 |
 | **[ITT Inc.](http://www.itt.com)** | **[HR Analyst – Employee Lifecycle & Talent Development Support](https://jobright.ai/jobs/info/68cce71577add66568abbaee?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clarita, CA | On Site | Oct 10 |
-| **[Sotheby's](http://www.sothebys.com)** | **[Coordinator, Talent Programming and Engagement](https://jobright.ai/jobs/info/68ccabb97342c7623ae67f82?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
