@@ -83,8 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d358f217554c2d9eef007a?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35a76f0d9af73038e14bf?utm_campaign=Human%20Resources&utm_source=1103)** | Columbia, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359edf0d9af73038e1416?utm_campaign=Human%20Resources&utm_source=1103)** | Arlington Heights, IL | On Site | Oct 15 |
-| **[Princeton University](http://www.princeton.edu)** | **[Compensation Analyst](https://jobright.ai/jobs/info/68d2ebdf17554c2d9eeeb878?utm_campaign=Human%20Resources&utm_source=1103)** | Princeton, NJ | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3547af0d9af73038e11fb?utm_campaign=Human%20Resources&utm_source=1103)** | Canton, OH | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3547af0d9af73038e11fb?utm_campaign=Human%20Resources&utm_source=1103)** | Canton, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d359cb17554c2d9eef01de?utm_campaign=Human%20Resources&utm_source=1103)** | Decatur, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35a40f0d9af73038e1482?utm_campaign=Human%20Resources&utm_source=1103)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d34d5517554c2d9eeefabb?utm_campaign=Human%20Resources&utm_source=1103)** | Lees Summit, MO | On Site | Oct 15 |
