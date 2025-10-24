@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68cc0c43128dc347fd91e1cb?utm_campaign=Human%20Resources&utm_source=1103)** | Fontana, CA | On Site | Oct 11 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/68c24abd63b706703e1137f6?utm_campaign=Human%20Resources&utm_source=1103)** | Pleasanton, CA | On Site | Oct 10 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68c64f63db52c07d28847144?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
