@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cec14fdbd9fb154ede284f?utm_campaign=Human%20Resources&utm_source=1103)** | Richmond, VA | On Site | Oct 12 |
 | **[IQVIA](https://www.iqvia.com)** | **[Clinical Research Associate - Sponsor Dedicated](https://jobright.ai/jobs/info/68cde4f7e23def7af55c00a1?utm_campaign=Human%20Resources&utm_source=1103)** | Durham, NC | Remote | Oct 11 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2f91ef4e41a61efd88657?utm_campaign=Human%20Resources&utm_source=1103)** | Plymouth, MN | On Site | Oct 11 |
-| **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Payroll Assistant](https://jobright.ai/jobs/info/68cea073846f0b04af67ba24?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
