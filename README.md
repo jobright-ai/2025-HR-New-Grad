@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[GLG](http://glginsights.com)** | **[Associate, Client Solutions - Law](https://jobright.ai/jobs/info/68ce10451ad6b16f028a1842?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Anti-Money Laundering, Financial Intelligence Unit - Subject Matter Expert (SME)](https://jobright.ai/jobs/info/68cebd73846f0b04af67c91c?utm_campaign=Human%20Resources&utm_source=1103)** | Plano, TX | On Site | Oct 11 |
 | **[CRRC Sifang America](https://www.crrcsifangamerica.com)** | **[Human Resources Generalist - Bilingual Required (Mandarin Chinese)](https://jobright.ai/jobs/info/6895013a8c6d6b4426776759?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68cc0c43128dc347fd91e1cb?utm_campaign=Human%20Resources&utm_source=1103)** | Fontana, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
