@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Payroll & Benefits Specialist](https://jobright.ai/jobs/info/68cee096846f0b04af67d888?utm_campaign=Human%20Resources&utm_source=1103)** | Torrance, CA | On Site | Oct 14 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Unit Resource Coordinator](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a622?utm_campaign=Human%20Resources&utm_source=1103)** | Annapolis, MD | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
