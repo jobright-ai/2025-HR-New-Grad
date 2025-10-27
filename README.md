@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCMSI](http://www.ccmsi.com)** | **[Claim Associate I – Entry-Level Workers’ Compensation Adjuster Training Program (Reno, NV)](https://jobright.ai/jobs/info/68c356b080e77b1fa6fc870b?utm_campaign=Human%20Resources&utm_source=1103)** | Reno, NV | On Site | Oct 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Home and Community Supports Assistant Supervisor](https://jobright.ai/jobs/info/68bb08118043103d4f2250aa?utm_campaign=Human%20Resources&utm_source=1103)** | Fort Washington, PA | On Site | Oct 22 |
 | **[Five Below](http://www.fivebelow.com)** | **[Asset Protection Associate Silver Spring MD](https://jobright.ai/jobs/info/68c7a735db52c07d2884dba5?utm_campaign=Human%20Resources&utm_source=1103)** | Silver Spring, MD | On Site | Oct 21 |
 | **[AvePoint](http://www.avepoint.com)** | **[Recruitment Marketing and Sourcing Specialist](https://jobright.ai/jobs/info/68bb39525f3832749186d6f3?utm_campaign=Human%20Resources&utm_source=1103)** | Jersey City, NJ | On Site | Oct 18 |
