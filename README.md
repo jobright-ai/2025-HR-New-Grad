@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68bf7478702aa35207aa678a?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, KY | On Site | Oct 14 |
-| **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Talent Acquisition Representative (Temporary)](https://jobright.ai/jobs/info/68d18f43cece431f8b58542a?utm_campaign=Human%20Resources&utm_source=1103)** | Tustin, CA | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
