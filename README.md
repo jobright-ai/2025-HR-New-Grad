@@ -171,5 +171,4 @@ For a complete list, click the following sortable link below:
 | **[Cyber Technology Group](https://www.experiencecybergroup.com)** | **[Employee Experience Advocate](https://jobright.ai/jobs/info/68db2b44e9b48513789b253f?utm_campaign=Human%20Resources&utm_source=1103)** | Scottsdale,  AZ | On Site | Sep 29 |
 | ↳ | **[Employee Experience Advocate](https://jobright.ai/jobs/info/68db2ae10dffed6f83d2ce82?utm_campaign=Human%20Resources&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 29 |
 | **[Palisades Tahoe ](https://www.palisadestahoe.com/)** | **[HR Housing Coordinator - Seasonal](https://jobright.ai/jobs/info/68db25900dffed6f83d2cb45?utm_campaign=Human%20Resources&utm_source=1103)** | Olympic Valley, CA | On Site | Sep 29 |
-| **[The Brattle Group](http://www.brattle.com)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/68db15da6df7b8311bb15f60?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
