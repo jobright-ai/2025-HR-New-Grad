@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Flowers Foods & Subsidiaries](https://flowersfoods.com/)** | **[Production Associate - $19.70 p/hr (Organic 5AM Start)](https://jobright.ai/jobs/info/68d758b861a175619f8c9759?utm_campaign=Human%20Resources&utm_source=1103)** | Henderson, NV | On Site | Oct 02 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68d6433e894705799a2ea0c8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A/B](https://jobright.ai/jobs/info/68d5a9f21f7fb2169ab12c8a?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
-| **[Altasciences](http://www.algopharm.com)** | **[Participant Recruitment Agent (Chinese Bilingual)](https://jobright.ai/jobs/info/67bfbea0dd43429077fa238f?utm_campaign=Human%20Resources&utm_source=1103)** | Cypress, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
