@@ -69,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35bb5f0d9af73038e16be?utm_campaign=Human%20Resources&utm_source=1103)** | Blue Springs, MO | On Site | Oct 16 |
 | **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d34d46f0d9af73038e0de3?utm_campaign=Human%20Resources&utm_source=1103)** | Knox City, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3542c8c62e63bc7fdfd7a?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, IL | On Site | Oct 15 |
-| **[Maverik, Inc.](https://maverik.com/)** | **[Workforce Management Systems Specialist](https://jobright.ai/jobs/info/68d34eecf0d9af73038e0f95?utm_campaign=Human%20Resources&utm_source=1103)** | Salt Lake City, UT | Hybrid | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d353a18c62e63bc7fdfcea?utm_campaign=Human%20Resources&utm_source=1103)** | Cape Girardeau, MO | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d353a18c62e63bc7fdfcea?utm_campaign=Human%20Resources&utm_source=1103)** | Cape Girardeau, MO | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35c428c62e63bc7fe001a?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d353ca17554c2d9eeefe83?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
 | **[Addus HomeCare](http://www.addus.com)** | **[RN Case Manager - Weekends](https://jobright.ai/jobs/info/689b3c2e83d13d1f5b69f184?utm_campaign=Human%20Resources&utm_source=1103)** | Schaumburg, IL | On Site | Oct 15 |
@@ -90,8 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d351c917554c2d9eeefc9b?utm_campaign=Human%20Resources&utm_source=1103)** | Evanston, IL | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d35d8a8c62e63bc7fe025c?utm_campaign=Human%20Resources&utm_source=1103)** | Dublin, OH | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative (MO)](https://jobright.ai/jobs/info/68d35b1017554c2d9eef03f2?utm_campaign=Human%20Resources&utm_source=1103)** | Jefferson City, MO | On Site | Oct 15 |
-| **[Spring Health](https://www.springhealth.com)** | **[Onsite Resource Coordinator (Kailua Kona, HI)](https://jobright.ai/jobs/info/687e823ddb19f31cf0d6ac1e?utm_campaign=Human%20Resources&utm_source=1103)** | Kailua-Kona, HI | On Site | Oct 15 |
-| **[AMBA](https://amba.info)** | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
+| ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d357d98c62e63bc7fdff2d?utm_campaign=Human%20Resources&utm_source=1103)** | Wilmington, NC | On Site | Oct 15 |
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68bf7478702aa35207aa678a?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, KY | On Site | Oct 14 |
@@ -158,6 +156,4 @@ For a complete list, click the following sortable link below:
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A/B](https://jobright.ai/jobs/info/68d5a9f21f7fb2169ab12c8a?utm_campaign=Human%20Resources&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
 | **[Altasciences](http://www.algopharm.com)** | **[Participant Recruitment Agent (Chinese Bilingual)](https://jobright.ai/jobs/info/67bfbea0dd43429077fa238f?utm_campaign=Human%20Resources&utm_source=1103)** | Cypress, CA | On Site | Sep 30 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[HR Generalist](https://jobright.ai/jobs/info/68ccda355954791a1d6ffd96?utm_campaign=Human%20Resources&utm_source=1103)** | Nampa, ID | On Site | Sep 30 |
-| **[Asset Living](https://www.assetliving.com/)** | **[Community Manager](https://jobright.ai/jobs/info/68db8401e19b9e63ba20ce21?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
-| **[Full Circle Employment Solutions LLC](https://fullcircledc.com)** | **[Job Developer (FULL TIME & FULLY REMOTE)](https://jobright.ai/jobs/info/68db7c039f13662d20e4bbe8?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
