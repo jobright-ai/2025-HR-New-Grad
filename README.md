@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 30 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 28 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Claim Associate I – Entry-Level Workers’ Compensation Adjuster Training Program (Reno, NV)](https://jobright.ai/jobs/info/68c356b080e77b1fa6fc870b?utm_campaign=Human%20Resources&utm_source=1103)** | Reno, NV | On Site | Oct 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Home and Community Supports Assistant Supervisor](https://jobright.ai/jobs/info/68bb08118043103d4f2250aa?utm_campaign=Human%20Resources&utm_source=1103)** | Fort Washington, PA | On Site | Oct 22 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Easterseals Hawaii](https://www.eastersealshawaii.org)** | **[Employment Associate](https://jobright.ai/jobs/info/68aee7841f0a2a568a05e414?utm_campaign=Human%20Resources&utm_source=1103)** | Kapolei, HI | On Site | Oct 09 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/68cb43daba798c1a501cdbd3?utm_campaign=Human%20Resources&utm_source=1103)** | Allentown, PA | On Site | Oct 09 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 08 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
