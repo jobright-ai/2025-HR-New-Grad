@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 | **[GBMC HealthCare](http://www.gbmc.org/)** | **[Unit Secretary Labor & Delivery FT Nights](https://jobright.ai/jobs/info/68c2b0ee5adaee6c9bda3534?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 05 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68c19232233c7d3e64d025e6?utm_campaign=Human%20Resources&utm_source=1103)** | Oneida, NY | On Site | Oct 03 |
-| **[Flowers Foods & Subsidiaries](https://flowersfoods.com/)** | **[Production Associate - $19.70 p/hr (Organic 5AM Start)](https://jobright.ai/jobs/info/68d758b861a175619f8c9759?utm_campaign=Human%20Resources&utm_source=1103)** | Henderson, NV | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
