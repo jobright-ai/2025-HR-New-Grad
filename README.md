@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/68dad2230b832179ca4b14fb?utm_campaign=Human%20Resources&utm_source=1103)** | Hawthorne, CA | On Site | Oct 08 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Retirement Benefits Group](https://jobright.ai/jobs/info/68a69bf6758f2e4ac3fe5fbe?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 07 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Sales Recruiter](https://jobright.ai/jobs/info/68d546d863d77d6f6f3ed106?utm_campaign=Human%20Resources&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
-| **[GBMC HealthCare](http://www.gbmc.org/)** | **[Unit Secretary Labor & Delivery FT Nights](https://jobright.ai/jobs/info/68c2b0ee5adaee6c9bda3534?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
