@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Nov 02 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 31 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 30 |
 | **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 28 |
@@ -95,11 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIA Benefits Representative](https://jobright.ai/jobs/info/68d3589a17554c2d9eeeffe1?utm_campaign=Human%20Resources&utm_source=1103)** | Youngstown, OH | On Site | Oct 15 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiter](https://jobright.ai/jobs/info/68c14257233c7d3e64d01039?utm_campaign=Human%20Resources&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68bf7478702aa35207aa678a?utm_campaign=Human%20Resources&utm_source=1103)** | Somerset, KY | On Site | Oct 14 |
-| **[Summa Health](http://www.summahealth.org/)** | **[Systems Analyst - HRIS](https://jobright.ai/jobs/info/68cdb89a1ad6b16f0289e3a0?utm_campaign=Human%20Resources&utm_source=1103)** | Greater Cleveland | On Site | Oct 14 |
 | **[CRH](http://crh.com)** | **[Corporate Recruiter (Entry Level)](https://jobright.ai/jobs/info/688d0a9227f9022553c08896?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Oct 14 |
 | **[Gridiron IT](https://gridironit.com)** | **[Technical Recruiter - LinkedIn Recruiter Specialist](https://jobright.ai/jobs/info/68c8501395f5211cd2ce3708?utm_campaign=Human%20Resources&utm_source=1103)** | Reston, VA | On Site | Oct 14 |
-| **[Performance Team](http://performanceteam.net)** | **[People Advisor](https://jobright.ai/jobs/info/687edd1d2097a271a89985d3?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Fe Springs, CA | Hybrid | Oct 13 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Oct 12 |
 | **[Epstein Becker & Green, P.C.](http://www.ebglaw.com)** | **[HR Systems Coordinator (TEMPORARY POSTION)](https://jobright.ai/jobs/info/68c09b435c5d5f14f46dfaa8?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Jenner & Block](http://jenner.com/)** | **[Coordinator, Legal Recruiting](https://jobright.ai/jobs/info/682618b30883a135d0508001?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Employment Development Specialist](https://jobright.ai/jobs/info/68db082fe9b48513789b14fd?utm_campaign=Human%20Resources&utm_source=1103)** | Oakton, VA | On Site | Oct 09 |
