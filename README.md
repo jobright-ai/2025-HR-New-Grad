@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Nov 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[FLEX Security Officer - $22/hr - Burlington, VT](https://jobright.ai/jobs/info/68b19874bc187f64e1bd5835?utm_campaign=Human%20Resources&utm_source=1103)** | Burlington, VT | On Site | Nov 02 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Recruiter](https://jobright.ai/jobs/info/68d1b84417554c2d9eedefe8?utm_campaign=Human%20Resources&utm_source=1103)** | Overland Park, KS | Hybrid | Oct 31 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Licensed Team Lead - Mental Health 367](https://jobright.ai/jobs/info/68c9ca32a0c52d598ea3b4cb?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Maria, CA | On Site | Oct 30 |
-| **[Ivory Plains Recovery Center](https://ivoryplainsrecovery.com)** | **[Mental Health Tech-Recovery](https://jobright.ai/jobs/info/6847922ba9fa5005649cb5ce?utm_campaign=Human%20Resources&utm_source=1103)** | Adair, IA | On Site | Oct 28 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Claim Associate I – Entry-Level Workers’ Compensation Adjuster Training Program (Reno, NV)](https://jobright.ai/jobs/info/68c356b080e77b1fa6fc870b?utm_campaign=Human%20Resources&utm_source=1103)** | Reno, NV | On Site | Oct 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Home and Community Supports Assistant Supervisor](https://jobright.ai/jobs/info/68bb08118043103d4f2250aa?utm_campaign=Human%20Resources&utm_source=1103)** | Fort Washington, PA | On Site | Oct 22 |
 | **[Five Below](http://www.fivebelow.com)** | **[Asset Protection Associate Silver Spring MD](https://jobright.ai/jobs/info/68c7a735db52c07d2884dba5?utm_campaign=Human%20Resources&utm_source=1103)** | Silver Spring, MD | On Site | Oct 21 |
