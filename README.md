@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amoroso Construction](https://www.sjamoroso.com)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/691f4a4009cc522e8773f21e?utm_campaign=Human%20Resources&utm_source=1103)** | Redwood City, CA | On Site | Jan 24 |
+| **[TUMI](https://tumi.in/)** | **[Benefits Coordinator](https://jobright.ai/jobs/info/691f93e009cc522e87743391?utm_campaign=Human%20Resources&utm_source=1103)** | Vidalia, GA | On Site | Jan 24 |
+| **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/689ddc0083d13d1f5b6b4b78?utm_campaign=Human%20Resources&utm_source=1103)** | Tucson, AZ | On Site | Jan 24 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/694626dcd1953b5d11bf4016?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | On Site | Jan 24 |
+| ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/693dc68e49a7695fbd043109?utm_campaign=Human%20Resources&utm_source=1103)** | Kansas City, MO | On Site | Jan 24 |
+| ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/6946173963141d188455c5e5?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, ME | On Site | Jan 24 |
+| ↳ | **[Case Specialist I, STD](https://jobright.ai/jobs/info/693cce7f50bbaf76504ffe2a?utm_campaign=Human%20Resources&utm_source=1103)** | Nashville, TN | On Site | Jan 24 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[Employee Benefits Account Specialist](https://jobright.ai/jobs/info/692f2d3afa28370be26a7e3a?utm_campaign=Human%20Resources&utm_source=1103)** | Santa Clarita, CA | Hybrid | Jan 24 |
+| **[Circle K](http://www.circlek.com)** | **[Manager in Training](https://jobright.ai/jobs/info/691f7884a49a885af9a30645?utm_campaign=Human%20Resources&utm_source=1103)** | Aurora, CO | On Site | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 University Hire (U.S.) - Human Resources](https://jobright.ai/jobs/info/68e64e921852e62f0081a6ce?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Jan 24 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Staffing Coordinator and Trainer](https://jobright.ai/jobs/info/6959f5c3aa05c26e7ab3a542?utm_campaign=Human%20Resources&utm_source=1103)** | Ontario, CA | On Site | Jan 24 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Case Specialist I, STD](https://jobright.ai/jobs/info/6948e1e263141d1884588e8b?utm_campaign=Human%20Resources&utm_source=1103)** | Baltimore, MD | On Site | Jan 24 |
@@ -72,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6974a83fbc8e722e7b19b438?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Remote | Jan 24 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Talent Acquisition Coordinator](https://jobright.ai/jobs/info/696893f81703f05405aa5ee3?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Program Analyst, CS Workforce Management](https://jobright.ai/jobs/info/694e1884f5bef51c96eb8ca9?utm_campaign=Human%20Resources&utm_source=1103)** | United States | Remote | Jan 24 |
+| **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Casework Associate I - Temporary](https://jobright.ai/jobs/info/68e833b809580a2fe57f51c8?utm_campaign=Human%20Resources&utm_source=1103)** | Pitt County, NC | On Site | Jan 24 |
 | **[Medica](https://www.medica.com)** | **[Employee Relations Partner](https://jobright.ai/jobs/info/695855d69f1b381eb2713afb?utm_campaign=Human%20Resources&utm_source=1103)** | Madison, WI | Hybrid | Jan 24 |
 | **[Paul, Weiss, Rifkind, Wharton & Garrison LLP](http://www.paulweiss.com)** | **[Legal Recruitment Assistant](https://jobright.ai/jobs/info/691fa328a49a885af9a32c2b?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | Hybrid | Jan 24 |
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/69749c6637785856350eb6bd?utm_campaign=Human%20Resources&utm_source=1103)** | Vancouver, British Columbia, Canada | Remote | Jan 24 |
@@ -82,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/69749b17bc8e722e7b19b048?utm_campaign=Human%20Resources&utm_source=1103)** | Calgary, Alberta, Canada | Remote | Jan 24 |
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/69749345bc8e722e7b19ad73?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | Remote | Jan 24 |
 | **[Stainless](https://www.stainless.com)** | **[Recruiting Coordinator](https://jobright.ai/jobs/info/6968976b639b452fb57e5703?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | Hybrid | Jan 24 |
-| **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/6974ae1abc8e722e7b19b52e?utm_campaign=Human%20Resources&utm_source=1103)** | Brooklyn, NY | Remote | Jan 24 |
-| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6974af09206da320f49ee2fb?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | Remote | Jan 24 |
+| **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6974af09206da320f49ee2fb?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | Remote | Jan 24 |
+| ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/6974ae1abc8e722e7b19b52e?utm_campaign=Human%20Resources&utm_source=1103)** | Brooklyn, NY | Remote | Jan 24 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6974aea437785856350ebc47?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | Remote | Jan 24 |
 | **[Merakey](https://www.merakey.org/)** | **[Workday Human Capital Management Administrator](https://jobright.ai/jobs/info/69748e08bc8e722e7b19a745?utm_campaign=Human%20Resources&utm_source=1103)** | Lafayette Hill, PA | Remote | Jan 24 |
 | **[The Brothers of Mercy Wellness Campus](http://brothersofmercy.org)** | **[Human Resource Coordinator](https://jobright.ai/jobs/info/697487f2206da320f49ebe51?utm_campaign=Human%20Resources&utm_source=1103)** | Brothers Of Mercy Management Company - Clarence, NY 14031 | On Site | Jan 24 |
@@ -246,8 +256,8 @@ For a complete list, click the following sortable link below:
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Healthcare Recruiter](https://jobright.ai/jobs/info/6973dbdf37785856350dad6f?utm_campaign=Human%20Resources&utm_source=1103)** | Charleston, WV | On Site | Jan 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Leave Management Ability Analyst - Hybrid](https://jobright.ai/jobs/info/697404c2206da320f49e1525?utm_campaign=Human%20Resources&utm_source=1103)** | Naperville, IL | Hybrid | Jan 23 |
 | ↳ | **[Leave Management Ability Analyst - Hybrid](https://jobright.ai/jobs/info/697406b9206da320f49e16ec?utm_campaign=Human%20Resources&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 23 |
-| ↳ | **[Leave Management Ability Analyst - Hybrid](https://jobright.ai/jobs/info/6973fd57206da320f49e0d88?utm_campaign=Human%20Resources&utm_source=1103)** | San Antonio, TX | Hybrid | Jan 23 |
 | ↳ | **[Leave Management Ability Analyst - Hybrid](https://jobright.ai/jobs/info/6974099e206da320f49e197f?utm_campaign=Human%20Resources&utm_source=1103)** | Hartford, CT | Hybrid | Jan 23 |
+| ↳ | **[Leave Management Ability Analyst - Hybrid](https://jobright.ai/jobs/info/6973fd57206da320f49e0d88?utm_campaign=Human%20Resources&utm_source=1103)** | San Antonio, TX | Hybrid | Jan 23 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Weekend Staffing Coordinator](https://jobright.ai/jobs/info/6973d810206da320f49dd271?utm_campaign=Human%20Resources&utm_source=1103)** | Novi, MI | On Site | Jan 23 |
 | **[Home Genius Exteriors](https://homegeniusexteriors.com)** | **[Talent Coordinator](https://jobright.ai/jobs/info/6973d775206da320f49dd1bf?utm_campaign=Human%20Resources&utm_source=1103)** | Cherry Hill, NJ | On Site | Jan 23 |
 | **[Cumberland Hospital for Children and Adolescents](https://cumberlandhospital.com)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/6973d608bc8e722e7b18a516?utm_campaign=Human%20Resources&utm_source=1103)** | New Kent, VA | On Site | Jan 23 |
@@ -318,9 +328,9 @@ For a complete list, click the following sortable link below:
 | **[Directors Guild of America - Producer Pension & Health Plans](https://www.dgaplans.org/)** | **[Benefits Analysis Coordinator](https://jobright.ai/jobs/info/6973bc2ebc8e722e7b188e7d?utm_campaign=Human%20Resources&utm_source=1103)** | Los Angeles, CA | On Site | Jan 23 |
 | **[FoxTrot Aviation Services LLC](https://www.foxtrotaviation.com)** | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/69740293bc8e722e7b18e6db?utm_campaign=Human%20Resources&utm_source=1103)** | Akron, OH | Hybrid | Jan 23 |
 | ↳ | **[Talent Acquisition Specialist](https://jobright.ai/jobs/info/6974052437785856350ded85?utm_campaign=Human%20Resources&utm_source=1103)** | Canton, OH | On Site | Jan 23 |
-| **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d9e9bc8e722e7b18a982?utm_campaign=Human%20Resources&utm_source=1103)** | Huntsville, AL 35801, USA | On Site | Jan 23 |
-| ↳ | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d82b206da320f49dd296?utm_campaign=Human%20Resources&utm_source=1103)** | Mc Lean, VA 22102, USA | On Site | Jan 23 |
+| **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d82b206da320f49dd296?utm_campaign=Human%20Resources&utm_source=1103)** | Mc Lean, VA 22102, USA | On Site | Jan 23 |
 | ↳ | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d871206da320f49dd2e8?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA 02210, USA | On Site | Jan 23 |
+| ↳ | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d9e9bc8e722e7b18a982?utm_campaign=Human%20Resources&utm_source=1103)** | Huntsville, AL 35801, USA | On Site | Jan 23 |
 | ↳ | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d966bc8e722e7b18a8e4?utm_campaign=Human%20Resources&utm_source=1103)** | Charlottesville, VA 22902, USA | On Site | Jan 23 |
 | ↳ | **[Recruiting Assistant](https://jobright.ai/jobs/info/6973d77fbc8e722e7b18a6a2?utm_campaign=Human%20Resources&utm_source=1103)** | Charlotte, NC 28202, USA | On Site | Jan 23 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/6973bafebc8e722e7b188e11?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Jan 23 |
@@ -489,22 +499,22 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Human Resources Management Systems Analyst](https://jobright.ai/jobs/info/697295164ccbf64f8df28d59?utm_campaign=Human%20Resources&utm_source=1103)** | US, California, Folsom | Hybrid | Jan 22 |
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b5bd9b83b424830ebe31?utm_campaign=Human%20Resources&utm_source=1103)** | Houston, TX | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b2f1584a1c1ef6fdc607?utm_campaign=Human%20Resources&utm_source=1103)** | San Francisco, CA | Remote | Jan 22 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b203584a1c1ef6fdc4e9?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Remote | Jan 22 |
+| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b359584a1c1ef6fdc656?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 22 |
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b6fb9b83b424830ebfab?utm_campaign=Human%20Resources&utm_source=1103)** | Washington, DC | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b5ef584a1c1ef6fdc7f1?utm_campaign=Human%20Resources&utm_source=1103)** | Miami Beach, FL | Remote | Jan 22 |
-| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b359584a1c1ef6fdc656?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 22 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b203584a1c1ef6fdc4e9?utm_campaign=Human%20Resources&utm_source=1103)** | Boston, MA | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b319584a1c1ef6fdc62c?utm_campaign=Human%20Resources&utm_source=1103)** | New York, United States | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b3bf9b83b424830ebbd6?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b1dc9b83b424830eba89?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | Remote | Jan 22 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b137584a1c1ef6fdc3eb?utm_campaign=Human%20Resources&utm_source=1103)** | Phoenix, IL | Remote | Jan 22 |
-| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b7714ccbf64f8df2c2fb?utm_campaign=Human%20Resources&utm_source=1103)** | Phoenix, IL | Remote | Jan 22 |
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b226584a1c1ef6fdc515?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | Remote | Jan 22 |
-| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b40c584a1c1ef6fdc6bb?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 22 |
+| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b7714ccbf64f8df2c2fb?utm_campaign=Human%20Resources&utm_source=1103)** | Phoenix, IL | Remote | Jan 22 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b137584a1c1ef6fdc3eb?utm_campaign=Human%20Resources&utm_source=1103)** | Phoenix, IL | Remote | Jan 22 |
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b60e4ccbf64f8df2c141?utm_campaign=Human%20Resources&utm_source=1103)** | Chicago, IL | Remote | Jan 22 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b3829b83b424830ebba3?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | Remote | Jan 22 |
+| ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b40c584a1c1ef6fdc6bb?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 22 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b6d0584a1c1ef6fdc900?utm_campaign=Human%20Resources&utm_source=1103)** | Atlanta, GA | Remote | Jan 22 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b3ed9b83b424830ebbf7?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | Remote | Jan 22 |
 | ↳ | **[Freelance Recruiter (Remote / Global)](https://jobright.ai/jobs/info/6972b57e584a1c1ef6fdc7a5?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | Remote | Jan 22 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b3829b83b424830ebba3?utm_campaign=Human%20Resources&utm_source=1103)** | Seattle, WA | Remote | Jan 22 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6972b3ed9b83b424830ebbf7?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | Remote | Jan 22 |
 | **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Interviewer/Project Support - 138218](https://jobright.ai/jobs/info/6972b2594ccbf64f8df2bdf1?utm_campaign=Human%20Resources&utm_source=1103)** | San Diego, CA | On Site | Jan 22 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[PERSONNEL SPECIALIST](https://jobright.ai/jobs/info/697293a3584a1c1ef6fd92c1?utm_campaign=Human%20Resources&utm_source=1103)** | Napa, CA | On Site | Jan 22 |
 | **[Intel Corporation](http://www.intel.com)** | **[Human Resources Management Systems Analyst](https://jobright.ai/jobs/info/6972930a584a1c1ef6fd9178?utm_campaign=Human%20Resources&utm_source=1103)** | US, Oregon, Hillsboro | Hybrid | Jan 22 |
@@ -730,11 +740,11 @@ For a complete list, click the following sortable link below:
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Staffing Coordinator](https://jobright.ai/jobs/info/69724b884ccbf64f8df235fa?utm_campaign=Human%20Resources&utm_source=1103)** | Rochester, NY | On Site | Jan 21 |
 | **[Study Smart Tutors](https://studysmarttutors.com/)** | **[RFP Assistant](https://jobright.ai/jobs/info/697146cd333b6343a14dc2b0?utm_campaign=Human%20Resources&utm_source=1103)** | Houston, TX | Remote | Jan 21 |
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697175b4333b6343a14e11ca?utm_campaign=Human%20Resources&utm_source=1103)** | Jersey City, NJ | Remote | Jan 21 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/69717cd2333b6343a14e1878?utm_campaign=Human%20Resources&utm_source=1103)** | Bronx, NY | Remote | Jan 21 |
 | ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697175c151f726477183d2c3?utm_campaign=Human%20Resources&utm_source=1103)** | Austin, TX | Remote | Jan 21 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/69717cd2333b6343a14e1878?utm_campaign=Human%20Resources&utm_source=1103)** | Bronx, NY | Remote | Jan 21 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/69717652587dfa0bb55f2945?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | Remote | Jan 21 |
-| ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697181bf587dfa0bb55f34a6?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | Remote | Jan 21 |
 | ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697177ba333b6343a14e12d1?utm_campaign=Human%20Resources&utm_source=1103)** | Dallas, TX | Remote | Jan 21 |
+| ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697181bf587dfa0bb55f34a6?utm_campaign=Human%20Resources&utm_source=1103)** | Tampa, FL | Remote | Jan 21 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Associate, Workplace Strategy](https://jobright.ai/jobs/info/697162bd51f726477183ad9a?utm_campaign=Human%20Resources&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Benefits and Compensation Coordinator](https://jobright.ai/jobs/info/69714350587dfa0bb55ed20f?utm_campaign=Human%20Resources&utm_source=1103)** | Washington, DC | Hybrid | Jan 21 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Manager, Recruitment & Admissions](https://jobright.ai/jobs/info/697142c1587dfa0bb55ed0d8?utm_campaign=Human%20Resources&utm_source=1103)** | Detroit, Michigan, United States | On Site | Jan 21 |
@@ -957,10 +967,9 @@ For a complete list, click the following sortable link below:
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697013f482817106e9772f8b?utm_campaign=Human%20Resources&utm_source=1103)** | Newark, NJ | Remote | Jan 20 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697017990f4e0f657ea472b4?utm_campaign=Human%20Resources&utm_source=1103)** | Newark, NJ | Remote | Jan 20 |
 | ↳ | **[Remote Recruiter - No Experience Needed](https://jobright.ai/jobs/info/697015d482817106e97730d5?utm_campaign=Human%20Resources&utm_source=1103)** | Miami Beach, FL | Remote | Jan 20 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6970163782817106e9773115?utm_campaign=Human%20Resources&utm_source=1103)** | Queens, NY | Remote | Jan 20 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6970136d82817106e9772ef4?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | Remote | Jan 20 |
-| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697014543ed06875134b130a?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | Remote | Jan 20 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697010f182817106e9772c1b?utm_campaign=Human%20Resources&utm_source=1103)** | Miami Beach, FL | Remote | Jan 20 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697014543ed06875134b130a?utm_campaign=Human%20Resources&utm_source=1103)** | Portland, OR | Remote | Jan 20 |
+| ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/6970136d82817106e9772ef4?utm_campaign=Human%20Resources&utm_source=1103)** | Denver, CO | Remote | Jan 20 |
 | ↳ | **[Remote Recruiter (Freelance)](https://jobright.ai/jobs/info/697015010f4e0f657ea4706a?utm_campaign=Human%20Resources&utm_source=1103)** | San Diego, CA | Remote | Jan 20 |
 | **[EUAM RCA](https://eeas.europa.eu/csdp-missions-operations/euam-rca_en)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/69700f9582817106e9772aad?utm_campaign=Human%20Resources&utm_source=1103)** | Washington, DC | On Site | Jan 20 |
 | **[Travelers](https://www.travelers.com)** | **[Associate Claim Representative - Workers Compensation](https://jobright.ai/jobs/info/69700b3a82817106e977277d?utm_campaign=Human%20Resources&utm_source=1103)** | OH - Cleveland | Hybrid | Jan 20 |
@@ -1154,5 +1163,4 @@ For a complete list, click the following sortable link below:
 | **[Washington State Department of Social and Health Services](https://www.dshs.wa.gov/)** | **[DSHS ESA Public Benefits Specialist 1-3](https://jobright.ai/jobs/info/696efbc982817106e9761d32?utm_campaign=Human%20Resources&utm_source=1103)** | Snohomish, WA | On Site | Jan 17 |
 | **[Northbridge Companies](https://northbridgecommunities.com/)** | **[CRMA - Up to $33/hr & $2K SIGN ON BONUS](https://jobright.ai/jobs/info/696ce10a5fc86241853bfd1f?utm_campaign=Human%20Resources&utm_source=1103)** | Avita of Brunswick - Brunswick, ME, | On Site | Jan 17 |
 | **[Marquis Home Care](https://marquishc.com)** | **[Recruiter](https://jobright.ai/jobs/info/696c1bfc350cf4380313440e?utm_campaign=Human%20Resources&utm_source=1103)** | Middletown, NY | On Site | Jan 17 |
-| **[Care Access](https://careaccess.com/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/691e14e23f782d2f1afb0c25?utm_campaign=Human%20Resources&utm_source=1103)** | Arlington, Virginia, United States | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
